@@ -1,8 +1,7 @@
 ---
-number headings: auto, first-level 1, max 6, 1.1.
-share: true
+number headings: "auto, first-level 1, max 6, 1.1."
+share: True
 ---
-
 *Cf* [fascicule JLD ENM - octobre 2016](http://enm.intranet.justice.fr/Espaces_Fonctionnels/JLD/I-%20Ressources%20p%C3%A9dagogiques/1-%20Fascicules/Fascicule%20JLD%20Etrangers%20B%20JOLY%20oct%202016.pdf)
 
 *Cf* [mémento CA Paris - avril 2017](http://arpege.intranet.ca-paris.justice.fr/formulaires/Droit%20des%20%C3%A9trangers%20Export%20html/files/1_1_Placementenrtentionparleprfet.html)
@@ -82,4 +81,3 @@ A titre exceptionnel ou en cas de volonté délibérée de l'étranger de faire 
 Les ordonnances du JLD peuvent être contestées devant le PP de la CA dans le cadre d'un appel non suspensif (art [L. 342-13, al 1, CESEDA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042777063)).
 
 Cependant, le PR peut, dans les 10 heures où la décision lui est notifiée, former un appel suspensif ([art L. 342-13, al 2, CESEDA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042777063)).
-
