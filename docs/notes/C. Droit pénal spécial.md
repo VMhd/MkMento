@@ -1,8 +1,7 @@
 ---
-number headings: auto, first-level 1, max 6, 1.1.
-share: true
+number headings: "auto, first-level 1, max 6, 1.1."
+share: True
 ---
-
 # 1. Atteintes volontaires à la vie
 
 ## 1.1. Meurtre
@@ -805,7 +804,7 @@ Au titre du comportement, la loi vise :
 
 - les manœuvres frauduleuses (actes positifs). Elles peuvent consister en une mise en scène ou une machination (faux cambriolage, fausse déclaration ...). Parfois, un tiers, dit *certificateur*, va contribuer à tromper la victime, que ce tiers soit de bonne foi (auteur sera seul puni pour escroquerie) ou de mauvaise foi (auteur sera puni pour escroquerie et tiers pour complicité). 
 
->[!note]
+!!! note
 Le simple mensonge non accompagné d'un acte matériel extérieur ne peut pas être qualifié de manœuvre frauduleuse (Crim., 20 juillet 1960). Il en va différemment si le mensonge est corroboré par un acte extérieur lui donnant force et crédit ([Crim., 11 juillet 2017](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000035192430&fastReqId=1700584833&fastPos=1)) comme un écrit (le mensonge par écrit suffit), une mise en scène ou l'intervention d'un tiers qui appuie le mensonge.
 
 S'agissant du résultat, l'escroquerie est une infraction matérielle (il faut une remise). La tentative d'escroquerie à l'assurance suppose que le sinistre simulé soit accompagné d'une déclaration de sinistre ([Crim.,](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007067001) [6 avril 1994](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007067001)).
