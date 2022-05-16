@@ -1,8 +1,7 @@
 ---
-number headings: auto, first-level 1, max 6, 1.1.
-share: true
+number headings: "auto, first-level 1, max 6, 1.1."
+share: True
 ---
-
 # 1. Récidive
 
 *(*[*art 132-8 et s.* ](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DEA3B5693C855E8CB214DA0B1FBBAEFF2.tplgfr34s_2?idSectionTA=LEGISCTA000006192890&cidTexte=LEGITEXT000006070719&dateTexte=20200204)*; cf* [*fiche ENM - août 2019*](attachments/Fiche%20r%C3%A9cidive%20MAJ%2008.2019.pdf)*)*

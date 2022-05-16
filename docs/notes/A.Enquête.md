@@ -1,8 +1,7 @@
 ---
-number headings: auto, first-level 1, max 6, 1.1.
-share: true
+number headings: "auto, first-level 1, max 6, 1.1."
+share: True
 ---
-
 # 1. Compétence
 
 ## 1.1. Compétence territoriale
@@ -673,8 +672,8 @@ De même, le MEC, soupçonné d'avoir commis une infraction punie d'emprisonneme
 
 (*cf* [note SDER - mars 2018](http://intranet.cour-de-cassation.intranet.justice.fr/rpvjcc/Reserve/SDE/BDD/CR/20180630_cr_changement_cadre_enquete.pdf))
 
-> [!note]
-> 
+!!! note
+	
 Si une procédure peut porter sur des faits distincts, il ne doit y avoir qu'un seul cadre d'enquête par procédure.
 Par ailleurs, dans une même procédure, on ne peut enquêter en flag puis en prélim puis revenir en flag ([Crim., 18 décembre 2013](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000028355879&fastReqId=1368435522&fastPos=1)) : l'enquête de flag ne peut pas être utilisée à plusieurs reprises dans une même procédure à des moments distincts. 
 
@@ -699,8 +698,8 @@ Ces enquêtes durent **8 jours non renouvelables** (à compter de l'ouverture de
 - soit on classe 11 ; 
 - soit l'enquête révèle l'existence apparente d'une infraction et on bascule en enquête préliminaire / de flagrance ou on ouvre une information.
 
-> [!note]
-> 
+!!! note
+	
 Dès que l'on bascule d'un cadre d'enquête à un autre, on fait acter par l'OPJ.
 Le parquet compétent est celui du lieu de découverte du cadavre / de la personne grièvement blessée (RCM/B) ou de la disparition (RCD). :::
 
@@ -714,12 +713,12 @@ Cette enquête suppose une mort (art 74, al 1) ou des blessures graves (art 74, 
 
 L'OPJ avise le parquet et se transporte sur place pour procéder aux 1res constatations.
 
-> [!note]
-> 
+!!! note
+	
 Avec un cadavre suspect découvert dans un appart où il y a bcp de stup : enquête en RCM + enquête distincte en flagrance sur ILS pour identifier complices / coauteurs.
 
-> [!attention]
-> 
+!!! attention
+	
 Aucune procédure judiciaire en l'absence d'OML (simple procédure civile).
 
 ### 2.9.2. Enquête aux fins de recherche des causes de la disparition
@@ -2201,8 +2200,8 @@ Il faut penser à ==aviser les tiers== qui ont le droit de s'exprimer sur cette 
 
 Sur tous les fondements, il faut établir une **proportionnalité** sauf lorsque le bien confisqué en nature ou en valeur est en totalité l'objet ou le produit de l'infraction. La proportionnalité s'apprécie au regard de la gravité concrète des faits et au vu de la situation personnelle de l'auteur. 
 
-> [!note] MEC pas propriétaire
-> 
+!!! note "MEC pas propriétaire"
+	
 Si on veut saisir un bien dont le MEC n'est pas propriétaire, il faut prouver qu'il en a **la libre disposition** ET que le propriétaire n'est pas de bonne foi. 
 Pour prouver la libre disposition, on s'attache à voir qui est le propriétaire économique réel. Pour la bonne foi, il suffit de prouver que le propriétaire n'as pas voulu savoir. 
 
@@ -2212,8 +2211,8 @@ Pour prouver la libre disposition, on s'attache à voir qui est le propriétaire
 
 On peut saisir l'AGRASC de toute question : [assistance@agrasc.gouv.fr](mailto:saisine@agrasc.gouv.fr)
 
-> [!important]
-> **Tous les biens confiscables peuvent être saisis mais la saisie n'est jamais une condition légale du prononcé de la peine de confiscation** (la saisie ne fait que faciliter une confiscation).
+!!! important
+	**Tous les biens confiscables peuvent être saisis mais la saisie n'est jamais une condition légale du prononcé de la peine de confiscation** (la saisie ne fait que faciliter une confiscation).
 
 
 Fondements juridiques :
@@ -2253,9 +2252,9 @@ Une fois que l'on a vérifié que l'on peut saisir, que l'on a ensuite arrêté 
 
 1. **saisies de *patrimoine*** ([art 706-148 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idSectionTA=LEGISCTA000022470108&cidTexte=LEGITEXT000006071154&dateTexte=20190330)) : saisie spéciale quel que soit le bien dès lors que la saisie est décidée sur [131-21](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006417273&dateTexte&categorieLien=cid), al 5 et 6. En amont, le PR doit autoriser les perquisitions décidées aux seules fins de rechercher et saisir des biens visés par al 5 et 6 ([art 56](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779588/2021-10-11/), al 1) ; 
 
-> [!attention] Note
-> 
-> Il faut l'avis obligatoire du parquet pour ces saisies dites *offensives*, même à l'instruction. 
+!!! attention "Note"
+	
+	Il faut l'avis obligatoire du parquet pour ces saisies dites *offensives*, même à l'instruction. 
 
 2. **saisies *immobilières*** ([art 706-150 et s.](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000022470102&cidTexte=LEGITEXT000006071154&dateTexte=20190330)) quel que soit le fondement de la saisie. En amont de la saisie, le PR doit consulter l'AGRASC et faire évaluer par France Domaine. La saisie porte sur la valeur totale de l'immeuble même si une fraction seulement a une origine illégale. 
 
@@ -2274,12 +2273,12 @@ Une fois que l'on a vérifié que l'on peut saisir, que l'on a ensuite arrêté 
 
 3. **saisies portant sur certains *biens ou droits meubles incorporels*** ([art 706-153 et s.](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000022470094&cidTexte=LEGITEXT000006071154&dateTexte=20190330)) : comptes bancaires (comptes avec transfert des fonds à l'AGRASC que sont les livrets ; comptes sans transferts immédiat des fonds à l'AGRASC que sont les plans et qui sont des instruments financiers que l'on peut seul figer pendant l'enquête), créances de somme d'argent, créances résultant de contrats d'assurance-vie, valeurs mobilières, fonds de commerce (mieux vaut saisir matériel, marchandises, comptes, brevets), cryptomonnaies… 
 
-> [!note]
-> Le PR seul peut autoriser les saisies de sommes versées sur des comptes bancaires de dépôt ou assimilé.  Il faut que l'accord du parquet soit acté. L'OPJ enjoindra alors l'établissement bancaire de transférer les sommes à l'AGRASC. Le PR devra ensuite saisir le JLD afin que celui-ci maintienne la mesure par ordonnance dans un délai de 10 jours sur le fdt des seuls al 2, 3 ou 9\. La date de départ du délai est la date du PV de saisie de l'enquêteur. Penser à saisir le JLD immédiatement. 
-> 
-> Si on ouvre une instruction par derrière, c'est au JI de faire la saisine JLD pour valider la saisine, et non plus au parquet. 
-> 
-> Avec un dépassement du délai, il faut prendre une décision de restitution en théorie; en pratique, l'AGRASC a des subterfuges pour ne pas rendre l'argent.
+!!! note
+	Le PR seul peut autoriser les saisies de sommes versées sur des comptes bancaires de dépôt ou assimilé.  Il faut que l'accord du parquet soit acté. L'OPJ enjoindra alors l'établissement bancaire de transférer les sommes à l'AGRASC. Le PR devra ensuite saisir le JLD afin que celui-ci maintienne la mesure par ordonnance dans un délai de 10 jours sur le fdt des seuls al 2, 3 ou 9\. La date de départ du délai est la date du PV de saisie de l'enquêteur. Penser à saisir le JLD immédiatement. 
+	
+	Si on ouvre une instruction par derrière, c'est au JI de faire la saisine JLD pour valider la saisine, et non plus au parquet. 
+	
+	Avec un dépassement du délai, il faut prendre une décision de restitution en théorie; en pratique, l'AGRASC a des subterfuges pour ne pas rendre l'argent.
 
 4.  ***saisies sans dépossession*** (peu utilisé) : le MEC ou un tiers conserve le bien, doit l'entretenir et ne doit pas l'utiliser (art [706-158](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000028312068) et s.). Si le MEC viole cette saisie, il risque une confiscation en valeur et commet l'infraction de détournement de bien saisi ([art 314-6](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006418224&cidTexte=LEGITEXT000006070719&dateTexte=20020101)) ;
 
