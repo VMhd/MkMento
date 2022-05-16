@@ -4,74 +4,9 @@ share: True
 ---
 # 1. Enquête
 
-## 1.1. Compétence
+[[1.1. Compétence]]
 
-### 1.1.1. Compétence territoriale
-
-*Cf* \1\2(<http://intranet.justice.gouv.fr/site/dacg/art_pix/circulaire_CT_11052017_close.pdf>)
-
-Les critères de compétence territoriale sont applicables au parquet pendant l'enquête (lorsque l'on n'a aucun critère de compétence, on ne peut faire réaliser aucun acte ; les enquêteurs doivent donc contacter le parquet compétent). Les mêmes critères sont applicables à l'instruction ([art](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032654809)), au TC ([art 382](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279442)) et, dans une moindre mesure, au TP ([art 522](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576802) : compétence au vu du lieu de l'infraction et du domicile du prévenu).
-
-Pour prendre attache avec une autre permanence et notamment échanger sur la compétence : [annuaire](attachments/annuaire_permanence.pdf) [DACG permanence](attachments/annuaire_permanence.pdf). Également utile pour indiquer aux enquêteurs les coordonnées de la permanence compétente.
-
-Outils :
-
-- permettant de trouver un code postal avec le nom d'une ville ou l'inverse : [site](http://www.codespostaux.com/home/) ;
-
-- permettant d'identifier la juridiction compétente pour une commune : [site](http://www.annuaires.justice.gouv.fr/annuaires-12162/liste-des-juridictions-competentes-pour-une-commune-22081.html).
-
-| **Crimes et délits** *(*[art 43](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279553/2020-01-01)*: 4 critères alternatifs)* |                                                                                                                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Lieu de commission des faits                                                                                                                    | Critère à privilégier ; le parquet du lieu des faits peut décider de toute alternative, même celle impliquant la participation active de l'auteur, tout en confiant la mise en œuvre au parquet du lieu de résidence |
-| Lieu de résidence de l'un des MEC                                                                                                               | La résidence s'apprécie au jour de la poursuite et non au jour de la commission de l'infraction Critère envisageable pour les personnes de passage sans aucune attache avec le lieu des faits                        |
-| Lieu de l'interpellation                                                                                                                        |                                                                                                                                                                                                                      |
-| Lieu de détention                                                                                                                               | Utile pour limiter les extractions ; il faut l'accord du parquet du lieu de détention, une enquête terminée et un détenu en exécution de peine et non en DP                                                          |
-
-| **Contraventions** *(*[art 522](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576802/2012-11-04)*: 3 critères alternatifs)* |                                                                                                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Lieu de commission de l'infraction                                                                                                             |                                                                                                                                                                                                  |
-| Lieu de constatation de l'infraction                                                                                                           |                                                                                                                                                                                                  |
-| Lieu de résidence du prévenu                                                                                                                   | Critère à privilégier pour les grands excès de vitesse relevés par radar : p. 8 de la [circ. du 7 avril 2006](attachments/circ_crim06-8_07_04_06.pdf) |
-
-| **Critères dérogatoires**                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Infractions connexes ([art 382](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006576386&dateTexte&categorieLien=cid), al 3, et [art 203](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575999&dateTexte&categorieLien=cid)) | Ce sont les infractions liées par un rapport étroit, soit en raison de l'unité de temps ou de lieu de leur commission, soit de l'unité de dessein, soit du lien de causalité, soit du lien créé par le recel                                                                                                                                                                                                                                                                                                     |
-| Infractions indivisibles ([art 382](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006576386&dateTexte&categorieLien=cid), al 3)                                                                                                                                                         | Ce sont les infractions rattachées entre elles par un lien tel que l'existence de l'une ne se comprendrait pas dans l'existence de l'autre                                                                                                                                                                                                                                                                                                                                                                       |
-| Mineur auteur ([outil p](http://calculatrice-fr.com/calcul-age-personne.php)[our c](http://calculatrice-fr.com/calcul-age-personne.php)[alculer l'âge à partir](http://calculatrice-fr.com/calcul-age-personne.php)                                                                                                                              | L'[art L. 231-1 CJPM](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043203908/2021-09-30) prévoit : le lieu de résidence habituel du mineur ou de ses représentants légaux ([circ. du 13 décembre 2016](attachments/JUSD1636978C.pdf), § 1.2 de l'[annexe 1](attachments/Annexe_1_Principes_directeurs_de_la_politique_penale_et_educative.pdf)) le lieu de placement le lieu de l'infraction le lieu où le mineur a été trouvé |
-| [d'une date de naissance](http://calculatrice-fr.com/calcul-age-personne.php))                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Infractions commises en dehors du territoire de la République                                                                                                                                                                                                                                                                                    | Domicile de la victime                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Infractions commises par une personne morale               | Siège de la personne morale (critère alternatif : [art 706-42](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028312445&cidTexte=LEGITEXT000006071154&dateTexte=20140201))                                                                                                                                                                                                                                                                                  |
-| Abandon de famille                                         | Domicile du créancier ([art 382](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006576386&dateTexte&categorieLien=cid), al 2)                                                                                                                                                                                                                                                                                                 |
-| Non-représentation d'enfant                                | Domicile du lieu où le mineur doit être représenté ([Crim., 4 janvier](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007064736&fastReqId=733610798&fastPos=1) [1990](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007064736&fastReqId=733610798&fastPos=1))                                                                                                                                |
-| Chèque falsifié                                            | Domiciliation bancaire ([art L. 163-2](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DB685C91CE0F3253BAF5026DBB3E02605.tplgfr28s_1?idArticle=LEGIARTI000006646061&cidTexte=LEGITEXT000006072026&dateTexte=20200427), dernier al, et [L. 163-7](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DB685C91CE0F3253BAF5026DBB3E02605.tplgfr28s_1?idArticle=LEGIARTI000006646211&cidTexte=LEGITEXT000006072026&dateTexte=20200427), dernier al, CMF) |
-| Infraction sur un aérodrome                                | [Loi du 22 décembre 1972](https://www.legifrance.gouv.fr/jo_pdf.do?cidTexte=JPDF2312197200013349&categorieLien=id) ; [tableau IV](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039060222/2020-02-04) annexe de la partie R. du COJ                                                                                                                                                                                                                                      |
-| Droit pénal du travail                                     | Lieu du siège social de l'entreprise (sauf accident du travail : lieu des faits)                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Infraction avec utilisation d'internet ou d'un tél         | Le lieu de commission est indifféremment le lieu d'envoi ou de réception                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Coordination des transports                                | Lieu du siège social de l'entreprise détenant le véhicule (ou lieu de faits pour une entreprise étrangère) : [art 522](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DACF8D331A30A72639D17C15CB894E027.tplgfr27s_1?idArticle=LEGIARTI000006576802&cidTexte=LEGITEXT000006071154&dateTexte=20180625), al 2                                                                                                                                                         |
-| Évasions, défaut justification FIJAIS / FIJAIT             | Lieu de l'interpellation                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Infraction commise dans un véhicule de transport en commun | Lieu de l'interpellation                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| RCB / RCM / RCD                                            | Lieu de découverte du blessé / du cadavre / de la disparition                                                                                                                                                                                                                                                                                                                                                                                                                         |
-
-### 1.1.2. Compétence territoriale dérogatoire : les pôles et juridictions spécialisées
-
-| **Domaines**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Textes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Parquets et juridictions spécialisés**                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Accident collectif* : grandes catastrophes en matière de transport ou liées à un risque technologique                                                                                                                                                                                                                                                                                                                                                                                                             | [Art 706-176 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D0D61B77AE2D8A88E630DBB999520E9B3.tpdila09v_1?idSectionTA=LEGISCTA000024964524&cidTexte=LEGITEXT000006071154&dateTexte=20170606) ; [D. 47-38](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D0D61B77AE2D8A88E630DBB999520E9B3.tpdila09v_1?idSectionTA=LEGISCTA000029982369&cidTexte=LEGITEXT000006071154&dateTexte=20170606)                                                                                                                                                                                                        | Pôles accidents collectifs (*PAC*) de Paris (*section S3 du parquet*) et Marseille                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| *Armes de destruction massive* : infractions relatives à la prolifération d'armes de destruction massive et de leurs vecteurs                                                                                                                                                                                                                                                                                                                                                                                      | [Art 706-167 et s.](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000023710057)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Paris                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Crimes contre les personnes *sériels* ou *non élucidés* plus de 18 mois après leur commission (*cold case*)                                                                                                                                                                                                                                                                                                                                                                                                        | [Art 706-106-1 et s.](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000044550758/#LEGISCTA000044550771) ; [D. 47-12-8](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000045077458/2022-07-31/#LEGISCTA000045077469) et s. et [circ. du 25 février](attachments/Circulaire%20relative%20au%20traitement%20des%20crimes%20s%E9riels%20ou%20non%20%E9lucid%E9s.pdf) [2022](attachments/Circulaire%20relative%20au%20traitement%20des%20crimes%20s%E9riels%20ou%20non%20%E9lucid%E9s.pdf) | Nanterre                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| *Cybercriminalité* : atteintes aux systèmes de traitement automatisé de données                                                                                                                                                                                                                                                                                                                                                                                                                                    | [Art 706-72-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032633870&cidTexte=LEGITEXT000006071154&dateTexte=20160605)                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Paris (*cf* [circ. du 10 mai 2017](attachments/depeche_10052017_STAD_open.pdf) et dépêches du [22 juin 2018](http://intranet.justice.gouv.fr/site/dacg/art_pix/depeche_22-06-2018_centralisation_fraudes_reparations_informatiques_parquet_paris_(texte).pdf) et du [12 juillet 2019](attachments/Depeche_2019-07-12_Centralisation_traitement_escroquerie_images_autoerotiques_fictives.pdf)) : *section J3 du parquet* |
-| *DCO et écofi* : criminalité et délinquance organisées, délinquance financière et affaires présentant une grande complexité                                                                                                                                                                                                                                                                                                                                                                                        | [Art 706-75](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000035937353&cidTexte=LEGITEXT000006071154) et [D. 47-13](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D101E75D5D748541C30719DE9A98DF28F.tpdila19v_2?idSectionTA=LEGISCTA000006137360&cidTexte=LEGITEXT000006071154&dateTexte=20170606) *et* [Art 704](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039183288/2020-01-01/), al 1, et [D. 47-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039346875/2020-01-01)                                                                                  | Juridictions interrégionales spécialisées (*JIRS*) : Paris (*sections J1 et J2 du parquet*), Marseille, Lyon, Nancy, Lille, Rennes, Bordeaux et Fort-de- France ([circ. du 2 septembre 2004](attachments/CIRCU_BLCOTB_02_09_2004.pdf))                                                                                                                                                                                                           |
-| *DCO et écofi* : criminalité et délinquance organisées, délinquance financière et affaires présentant une très grande complexité                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Juridiction nationale chargée de la lutte contre la criminalité organisée (*JUNALCO*) siégeant à Paris ([circ. du](attachments/Circulaire_2019-12-17_competence_nationale_concurrente_TGI_CA_Paris_articulation_acteurs_crime_organise.pdf) [17 décembre 2019](attachments/Circulaire_2019-12-17_competence_nationale_concurrente_TGI_CA_Paris_articulation_acteurs_crime_organise.pdf))                                 |
-| *Écofi* : compétence exclusive pour les délits boursiers ; compétence concurrentes avec les autres juridictions (dont JIRS) pour les affaires complexes de corruption, d'escroquerie à la TVA, de fraude fiscale et de détournement de fonds publics (+ AMF)                                                                                                                                                                                                                                                       | [Art 705 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D101E75D5D748541C30719DE9A98DF28F.tpdila19v_2?idSectionTA=LEGISCTA000028295001&cidTexte=LEGITEXT000006071154&dateTexte=20170606) et [circ. du 31 janvier](attachments/JUSD1402887C.pdf) [2014](attachments/JUSD1402887C.pdf)                                                                                                                                                                                                                                                             | Paris (parquet national financier, dit *PNF*, côté parquet)                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| *Écofi* : Affaires qui sont, ou apparaîtraient, d'une grande complexité                                                                                                                                                                                                                                                                                                                                                                                                                                            | [Art 704](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039183288/2020-01-01/), al 22 et 24, et [D. 47-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039343050/2020-01-01)                                                                                                                                                                                                                                                                                                                                                                                                                         | *Pôles économiques et financiers (PEF).* Compétence concurrente d'un TJ dans le ressort d'une CA : Bastia et Nanterre                                                                                                                                                                                                                                                                                                                                                                                |
-| *Haine en ligne* : harcèlement moral / sexuel discriminatoire en ligne, provocation à la commission d'une infraction en ligne et plusieurs autres infractions discriminatoires en ligne                                                                                                                                                                                                                                                                                                                            | [Art 15-3-3](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D50EACF78477A3B337AB0CC5BFEE9314A.tplgfr34s_2?idArticle=LEGIARTI000042035225&cidTexte=LEGITEXT000006071154&dateTexte=20200814) et [circ. du 24](attachments/Circulaire_relative_a_la_lutte_contre_la_haine_en_ligne_24-11-2020.pdf) [novembre 2020](attachments/Circulaire_relative_a_la_lutte_contre_la_haine_en_ligne_24-11-2020.pdf)                                                                                                                              | Compétence concurrente de Paris (*PNLH : pôle national de la haine en ligne* [*permanence.pnlh.pr.tj-paris@justice.fr*](mailto:permanence.pnlh.pr.tj-paris@justice.fr))                                                                                                                                                                                                                                                                                                                              |
-| *Infractions maritimes* : pollution des eaux maritimes par rejets des navires et atteintes aux biens culturels maritimes (*cf* [guide DACG - juin 2010](attachments/Guide_pollution_Fiche_Plan.pdf) et [liste des](http://intranet.justice.gouv.fr/site/dacg/art_pix/Liste%20des%20codes%20natinfs%20JULIS%20(janvier%202021).pdf) [infractions concernées](http://intranet.justice.gouv.fr/site/dacg/art_pix/Liste%20des%20codes%20natinfs%20JULIS%20(janvier%202021).pdf)) | [Art 706-107 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D101E75D5D748541C30719DE9A98DF28F.tpdila19v_2?idSectionTA=LEGISCTA000033440040&cidTexte=LEGITEXT000006071154&dateTexte=20170606) ; [D. 47-13-1 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D101E75D5D748541C30719DE9A98DF28F.tpdila19v_2?idSectionTA=LEGISCTA000034313225&cidTexte=LEGITEXT000006071154&dateTexte=20170606) ; [circ. du 18 avril](attachments/circulaire_18042017.pdf) [2017](attachments/circulaire_18042017.pdf)             | Juridictions du littoral spécialisées ([*JULIS*](http://intranet.justice.gouv.fr/site/dacg/sante-publique-droit-social-environnement-1457/julis-pollutions-marines-3894/julis-pollutions-marines-19387.html)) : Marseille, Brest, Le Havre, Fort-de-France, Saint-Denis-de-la- Réunion, Saint-Pierre-et-Miquelon                                                                                                                                                                                     |
-| *Militaires* : infractions de droit commun commises par des militaires (pour les gendarmes, seulement dans leurs fonctions de maintien de l'ordre : [art 697-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024970995), al 3) dans l'exercice du service en temps de paix + infractions militaires                                                                                                                                                                                                  | [Art 697 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D541450294990CC7044D2FFFE28CAA346.tpdila16v_2?idSectionTA=LEGISCTA000006167549&cidTexte=LEGITEXT000006071154&dateTexte=20170606) ; [décret du 3](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029837572&categorieLien=id) [décembre 2014](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029837572&categorieLien=id) ; [circ. du 23](attachments/circulaire.pdf) [décembre 2014](attachments/circulaire.pdf)                     | Juridictions de droit commun spécialisées en matière militaire (*JDCS*) : Bordeaux, Lille, Lyon, Marseille, Metz, Paris (*section AC3* côté parquet), Rennes, Cayenne et Toulouse                                                                                                                                                                                                                                                                                                                    |
-| *Santé publique et environnement* : affaires de grande complexité relatives à un produit de santé, à un produit destiné à l'alimentation, ainsi qu'à un produit ou une substance ou des pratiques et prestations de service médicales, paramédicales ou esthétiques | [Art 706-2 et s.](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006138121/#LEGISCTA000033051135) ; [D. 47-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039346879) ; [circ. du 10](https://www.legifrance.gouv.fr/download/pdf/circ?id=39777) [juin 2015](https://www.legifrance.gouv.fr/download/pdf/circ?id=39777) et du [11](attachments/Circulaire_11_mai_2021_visant_%E0_consolider_le_r%F4le_de_la_justice_en_matiere_environnementale2.pdf) [mai 2021](attachments/Circulaire_11_mai_2021_visant_%E0_consolider_le_r%F4le_de_la_justice_en_matiere_environnementale2.pdf)                                                                                        | Pôles santé publique et environnement (*PSPE*) de Paris (*sections S1 et S2* côté parquet) et Marseille                                                   |
-| *Environnement* : affaires complexes (technicité, importance du préjudice ou du ressort géographique)                                                                                                                                                               | [Art 706-2-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042751020) ; [D. 47-](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043259592) [5-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043259592) et [circ. du 11](attachments/Circulaire_11_mai_2021_visant_%E0_consolider_le_r%F4le_de_la_justice_en_matiere_environnementale2.pdf) [mai 2021](attachments/Circulaire_11_mai_2021_visant_%E0_consolider_le_r%F4le_de_la_justice_en_matiere_environnementale2.pdf)                                                                                                                                                                                                        | Un [pôle régional environnemental](attachments/Annexe%201%20-%20Juridictions%20sp%E9cialis%E9es.pdf) (*PRE*) par CA |
-| *Terrorisme et CCH* : terrorisme, CCH, crimes et délits de guerre, crimes de torture et de disparition forcée commises par les autorités étatiques                                                                                                                  | [Art 706-17](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idArticle=LEGIARTI000038312819&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte=20200101) ; [628-1](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idSectionTA=LEGISCTA000024964201&cidTexte=LEGITEXT000006071154&dateTexte=20200101) [et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idSectionTA=LEGISCTA000024964201&cidTexte=LEGITEXT000006071154&dateTexte=20200101) et [circ. du 1er](attachments/JUSD1919006C.pdf) [juillet 2019](attachments/JUSD1919006C.pdf) | Paris (parquet national antiterroriste, dit *PNAT*, côté parquet)                                                                                         |
-
-## 1.2. Services d'enquête
+## 1.1. Services d'enquête
 
 *Cf* fascicule ENM [Les services d'enquête - avril 2021](attachments/Fascicule%20Les%20services%20denquete%20MAJ%2005%202021.pdf)
 
@@ -81,7 +16,7 @@ Outils :
 
 [Art D. 2](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D3B3CB490791415347419E30400083D70.tplgfr21s_3?idArticle=LEGIARTI000006514780&cidTexte=LEGITEXT000006071154&dateTexte=20170602&categorieLien=id&oldAction), al 2, CPP : "*Dans le ressort de chaque tribunal, le tribunal, le PR et ses substituts ont seuls qualité pour diriger l'activité des OPJ et APJ, par la voie, s'il y a lieu, de leurs supérieurs hiérarchiques.*"
 
-### 1.2.1. Compétence territoriale
+### 1.1.1. Compétence territoriale
 
 Désormais, les OPJ peuvent intervenir sur tout le territoire national. Sauf s'il s'agit d'un département limitrophe à leur ressort de compétence, ils doivent informer de leur déplacement le PR saisi de l'enquête et le PR du ressort dans lequel ils interviennent ([art 18](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779661/2020-12-27) et [D. 12](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043999502/2021-09-01/)). Le PR saisi de l'enquête peut leur adjoindre un OPJ territorialement compétent. Il n'est donc plus nécessaire d'autoriser une extension de compétence territoriale ([ancien art 18](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000032655589), al 4).
 
@@ -93,7 +28,7 @@ Pour identifier le service enquêteur compétent (PN ou GN) à partir d'une comm
 
 Pour ensuite trouver les coordonnées d'un commissariat ou d'une brigade (adresse et tél) : *cf* [site](https://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police?adresse=17200%2BRoyan&country=FRA).
 
-### 1.2.2. Choix du service d'enquête
+### 1.1.2. Choix du service d'enquête
 
 - Principe de libre choix du service enquêteur : "*le PR et le JI ont le libre choix des formations auxquelles appartiennent les OPJ*" ([art 12-1](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DED8EAE76C6F75246A0344150CA7EF7AB.tplgfr27s_2?idArticle=LEGIARTI000020957195&cidTexte=LEGITEXT000006071154&dateTexte=20090807&categorieLien=id&oldAction)) ; "*Le PR et le JI ont le libre choix des formations auxquelles appartiennent les OPJ territorialement compétents qui seront chargés de l'exécution de leurs réquisitions ou CR*" ([art D. 2](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D3B3CB490791415347419E30400083D70.tplgfr21s_3?idArticle=LEGIARTI000006514780&cidTexte=LEGITEXT000006071154&dateTexte=20170602&categorieLien=id&oldAction), al 3) ;
 
@@ -147,9 +82,9 @@ Agent de police judiciaire adjoints (dit APJa ou APJ21) :
 
 Les agents de surveillance de la voie publique (ASVP) et les assistants temporaires d'agents de police municipale ([art L. 412-49-1 code des communes](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D25ED9DABE53D82379424EEBF2169740F.tpdila23v_1?idArticle=LEGIARTI000020898952&cidTexte=LEGITEXT000006070162&dateTexte=20101201&categorieLien=id&oldAction=rechCodeArticle&nbResultRech)) ne sont pas APJa (*cf* [fiche DACG](attachments/Memento_ASVP.pdf)).
 
-### 1.2.3. Police nationale
+### 1.1.3. Police nationale
 
-#### 1.2.3.1. Police nationale - sécurité publique
+#### 1.1.3.1. Police nationale - sécurité publique
 
 Le territoire est découpé en 6 directions zonales de sécurité publique (DZSP).
 
@@ -179,7 +114,7 @@ Corps de commandement :
 
 Corps de conception et de direction : 
 
-#### 1.2.3.2. Police nationale - police judiciaire
+#### 1.1.3.2. Police nationale - police judiciaire
 
 | **Niveau**        | **Structure**                                                                                                                                                                       |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -200,7 +135,7 @@ Les brigades ou groupes PJ des DTPJ et SPJ sont généralement les suivants :
 - brigade économique et financière (*BF*) ;
 - courses et jeux.
 
-### 1.2.4. Gendarmerie nationale
+### 1.1.4. Gendarmerie nationale
 
 La gendarmerie nationale (*GN*) comprend plusieurs subdivisions, et, notamment :
 
@@ -243,7 +178,7 @@ judiciaire. Son organisation est la suivante :
 |                    |                                | Brigade de recherches (BR)                                                                                                                                                                                                                                                                                                                                                                                                               |
 | *Canton*           | Brigade territoriale *(BT)*    | Les BT sont organisées comme suit : Pour les plus grandes, en Brigades territoriale autonome (BTA) Pour les plus petites, les BT sont regroupées en Communautés de brigades (CoB) composées d'une Brigade territoriale de proximité chef-lieu (BTPCL) et de brigades de proximité (BP)                                                                                                                                                   |
 
-### 1.2.5. Offices centraux et autres services d'enquête
+### 1.1.5. Offices centraux et autres services d'enquête
 
 *(*[*art D. 8-1 CPP*](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725226/2020-01-01)*; cf* [*coordonnées*](attachments/1_1_Offices_centraux_DGGN_DGPN_MAJ_29_09_2017.pdf)*)*
 
@@ -265,7 +200,7 @@ judiciaire. Son organisation est la suivante :
 | OCLDI                                                       | Office central de lutte contre la délinquance itinérante     | 01.71.80.60.27 |
 | OCLAESP                                                     | Office central de lutte contre les atteintes à l'environnement et à la santé publique | 01.71.80.62.65 |
 
-#### 1.2.5.1. Groupes interministériels de recherches (GIR)
+#### 1.1.5.1. Groupes interministériels de recherches (GIR)
 
 *(*[*circ. du 22 mai 2002*](https://www.gendarmerie.interieur.gouv.fr/notre-institution/nos-composantes/sur-le-terrain/unites-specialisees/les-groupes-interministeriels-de-recherches-gir)*)*
 
@@ -273,7 +208,7 @@ Outre des policiers et des gendarmes, les GIR (anciennement appelés *groupes d'
 
 GIR à saisir en prélim sur ILS, en flag avec découverte d'une forte somme d'argent et éventuellement pour les vols d'importantes sommes en liquide (aussi bien pour s'assurer de leur réalité que de leur légalité).
 
-#### 1.2.5.2. Service d'enquêtes judiciaires des finances (SEJF)
+#### 1.1.5.2. Service d'enquêtes judiciaires des finances (SEJF)
 
 *(*[dépêche DACG du 17 juillet 2019](Depeche_2019-07-17_Creation_service_enquetes_judiciaires_des_finances_SEJF.pdf.md)*;* [*décret du 16 mai 2019*](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038480349&categorieLien=cid)*)*
 
@@ -285,7 +220,7 @@ SEFJ est un service à compétence nationale fonctionnant comme un office centra
 
 SEFJ est compétent pour les infractions liées au capitaux, fraude fiscale, contrefaçons, obligations déclaratives, trafic d'armes, jeux, intérêts financiers de l'UE, asso de malfaiteurs en lien avec ces infractions, blanchiment... Pour plusieurs infractions comme le trafic de stup, il faut une cosaisine avec PN / GN (on parlera alors d'unité mixte).
 
-#### 1.2.5.3. Aéroports
+#### 1.1.5.3. Aéroports
 
 L'[art R. 213-1-4 code de l'aviation civile](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DD93D6EF213EE05F61BA07A7913DD8382.tpdila10v_1?idArticle=LEGIARTI000026105704&cidTexte=LEGITEXT000006074234&dateTexte=20170801) distingue :
 
@@ -305,7 +240,7 @@ Elle exerce les missions suivantes :
 
 La PAF exerce les missions de sécurité générale sur la *zone publique* de l'aéroport (circulation, contrôles d'identité, enquêtes pénales sur la petite et moyenne délinquance), de sûreté aéroportuaire (enquêtes relatives au personnel avant la délivrance des titres d'accès à la zone réservée, contrôle de l'accès à cette zone...), de contrôle transfrontalier et d'éloignement.
 
-#### 1.2.5.4. Inspection générale de la police nationale (IGPN)
+#### 1.1.5.4. Inspection générale de la police nationale (IGPN)
 
 IGPN située à Paris mais 9 implantations sur le territoire. Compétente pour tous les agents relevant de la DGPN, DGSI et PP. Elle peut réaliser une enquête administrative, judiciaire ou les 2.
 
@@ -313,7 +248,7 @@ Enquête administrative pré-disciplinaire exclusivement initiée par le pouvoir
 
 Le pénal ne tient pas le disciplinaire en l'état mais autorité de chose jugée du pénal sur la seule matérialité des faits.
 
-#### 1.2.5.5. Préfecture de police de Paris (PP)
+#### 1.1.5.5. Préfecture de police de Paris (PP)
 
 La préfecture de police (PP) est compétente pour Paris et, depuis 2009, la petite couronne. Ses effectifs dépendent du seul préfet de police (ni de la DCSP, ni de la DCPJ), qui est lui-même sous la responsabilité directe du ministre de l'intérieur (créé en 2012, le préfet de police des Bouches-du-Rhône n'a, pour sa part, ni administration propre, ni compétences spécifiques et n'a qu'une autorité fonctionnelle sur les services relevant de la DGPN et DGGN).
 
@@ -329,7 +264,7 @@ Les services actifs de la PP sont répartis entre les directions suivantes :
 
 - direction régionale de la police judiciaire (DRPJ).
 
-##### 1.2.5.5.1. Sécurité publique
+##### 1.1.5.5.1. Sécurité publique
 
 Au sein de la PP, la DSPAP est, en quelque sorte, l'équivalent de la DCSP du ministère de l'intérieur.
 
@@ -345,7 +280,7 @@ Elle comprend :
 | La sous-direction des services spécialisés de l'agglomération (SDSS) | Vient en soutien des DTSP avec : les compagnies de sécurisation et d'intervention (CSI) ; BAC de jour de l'agglomération ; le service de nuit de l'agglomération ; la compagnie cynophile d'agglomération ; la brigade d'assistance aux personnes sans abri ; le service transversal d'agglomérations des évènements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | La sous-direction de la police d'investigation territoriale (SDPIT)  | Suivi, recoupement, appui technique et scientifique (recoupement, profilage... mais pas de PTS de terrain)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-##### 1.2.5.5.2. Police judiciaire
+##### 1.1.5.5.2. Police judiciaire
 
 La direction régionale de la PJ de la PP ([DRPJ - présentation décembre 2018](https://www.prefecturedepolice.interieur.gouv.fr/sites/default/files/Documents/plaquette_drpj.pdf)) comprend, notamment :
 
@@ -379,7 +314,7 @@ La direction régionale de la PJ de la PP ([DRPJ - présentation décembre 2018]
 
 - BRIF : Brigade de recherches et d'investigations financières (*blanchiment organisé*) ; - des services territoriaux avec les trois districts de PJ de Paris (1er, 2e et 3e DPJ) et trois services départementaux de police judiciaire (SDPJ) pour les départements 92, 93 et 94 ; - quatre groupes interministériels de recherches (GIR) ; - le service régional de l'identité judiciaire (SRIJ) ; - le service régional de documentation criminelle (SRDC).
 
-### 1.2.6. Principaux services de renseignement intérieur
+### 1.1.6. Principaux services de renseignement intérieur
 
 Ces services font presque exclusivement du renseignement, *ie* de la police
 administrative. Se pose alors régulièrement la question de la
@@ -620,9 +555,9 @@ d'État](https://www.conseil-etat.fr/Media/actualites/documents/2021/07-juillet/
 
 *Cf* fascicule ENM [Les enquêtes - août 2017](http://enm.intranet.justice.fr/Espaces_Fonctionnels/Parquet/I-%20Ressources%20p%C3%A9dagogiques/1-%20Fascicules/Attributions%20p%C3%A9nales/Fascicule%20Les%20Enqu%C3%AAtes%20MAJ%20Ao%C3%BBt%202017.pdf)
 
-### 1.2.7. Enquêtes préliminaire et de flagrance
+### 1.1.7. Enquêtes préliminaire et de flagrance
 
-#### 1.2.7.1. Enquête de flagrance
+#### 1.1.7.1. Enquête de flagrance
 
  [*art 53 à 73*](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DE6E501FF17912F1D6E10031EB1C0B625.tpdila18v_3?idSectionTA=LEGISCTA000006151876&cidTexte=LEGITEXT000006071154&dateTexte=20170529)
 
@@ -640,7 +575,7 @@ Durée de 8 jours à compter du premier acte d'investigation (et non de l'infrac
 
 C'est l'**appréciation des enquêteurs** qui compte pour qualifier la flagrance et les juges ne peuvent apprécier les conditions de la flagrance *a posteriori* ([Crim., 22 février 1996](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007067224&fastReqId=1294360833&fastPos=1) ; [Crim., 7 janvier 2020](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000041481930&fastReqId=577521082&fastPos=1)). Ce point n'est pas très clair car la Cass a déjà admis que les juges pouvaient relever la flagrance là où les enquêteurs ont agi en prélim ([Crim., 5 octobre 2011](https://www.legifrance.gouv.fr/juri/id/JURITEXT000024647435/) et [Crim., 26 juin 2014](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029152469/)).
 
-#### 1.2.7.2. Enquête préliminaire
+#### 1.1.7.2. Enquête préliminaire
 
 ([art 75 à 78](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006151877&cidTexte=LEGITEXT000006071154&dateTexte=20170529))
 
@@ -670,7 +605,7 @@ Suspension des délais si CSS ou coopération. Nullité des actes au-delà sauf 
 
 De même, le MEC, soupçonné d'avoir commis une infraction punie d'emprisonnement, peut accéder à la procédure dans 3 cas : un an après son audition, un an après une perquisition réalisée chez lui et en cas d'atteinte à la présomption d'innocence ([art 77-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032655262&cidTexte=LEGITEXT000006071154&dateTexte=20160605), II). Le PR peut refuser pour une durée maximale de 6 mois (décision pouvant être contestée devant le PG) et peut ne pas communiquer certaines pièces en cas de risque de pression.
 
-### 1.2.8. Changement de cadre d'enquête
+### 1.1.8. Changement de cadre d'enquête
 
 (*cf* [note SDER - mars 2018](http://intranet.cour-de-cassation.intranet.justice.fr/rpvjcc/Reserve/SDE/BDD/CR/20180630_cr_changement_cadre_enquete.pdf))
 
@@ -689,7 +624,7 @@ Le passage de la préliminaire à la flagrance est possible (sous réserve qu'il
 
  - soit il s'agit d'infractions vraiment distinctes et on gardera les deux cadres d'enquête distincts et donc deux procédures.
 
-### 1.2.9. RCM, RCB, RCD
+### 1.1.9. RCM, RCB, RCD
 
 Pour que les enquêteurs ouvrent une telle procédure, il faut l'**accord initial du PR** (il faut le faire acter) car les pouvoirs sont proches de la flagrance (renvoi aux art 56 à 62) bien que les actes coercitifs (GAV ou interpellation) soient toutefois exclus (la rétention de témoin semble autorisée : § 1.2 de la [circ. du 19 juillet](http://intranet.justice.gouv.fr/site/dacg/art_pix/circ_190710_loi_simplif_du_120509_close.pdf) [2010](http://intranet.justice.gouv.fr/site/dacg/art_pix/circ_190710_loi_simplif_du_120509_close.pdf)). La géolocalisation est possible pour la RCM et RCD ([art 230-32](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311484/), 2°).
 
@@ -707,7 +642,7 @@ Le parquet compétent est celui du lieu de découverte du cadavre / de la person
 
 ([art 74 CPP](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575114) ; [fiche DACG - octobre 2019](http://intranet.justice.gouv.fr/site/dacg/art_pix/Memento_de_perm_Morts_et_blessures_graves%202019.pdf))
 
-#### 1.2.9.1. Enquête aux fins de recherche des causes de la mort ou des blessures
+#### 1.1.9.1. Enquête aux fins de recherche des causes de la mort ou des blessures
 
  ([art 74 CPP](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575114)), dite *enquête décès*
 
@@ -723,7 +658,7 @@ Avec un cadavre suspect découvert dans un appart où il y a bcp de stup : enqu�
 	
 Aucune procédure judiciaire en l'absence d'OML (simple procédure civile).
 
-#### 1.2.9.2. Enquête aux fins de recherche des causes de la disparition
+#### 1.1.9.2. Enquête aux fins de recherche des causes de la disparition
 
 ([art 74-1 CPP](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006575117&cidTexte=LEGITEXT000006071154) ; § 6.5 de la [circ. du 8 novembre 2002](http://intranet.justice.gouv.fr/dacg/cabinet//docs/2002/circ8_11_02.pdf) ; [fiche DACG - octobre 2019](http://intranet.justice.gouv.fr/site/dacg/art_pix/Fiche%20du%20m%E9mento%20de%20permanence%20sur%20les%20disparitions%20suspectes%202019.pdf))
 
@@ -759,260 +694,9 @@ Autres actes d'investigations utiles :
 
 Cadre d'enquête applicable à certains condamnés, à toute personne faisant l'objet d'un mandat d'arrêt mais aussi en cas de violation des FIJAIT et FIJAIS.
 
-## 1.3. Contrôles, interpellations, auditions
+[[1.2. Contrôles, interpellations, auditions]]
 
-*Cf* fiche ENM [Les différents cadres d'audition lors de l'enquête pénale - novembre 2021](http://enm.intranet.justice.fr/Espaces_Fonctionnels/Parquet/I-%20Ressources%20p%C3%A9dagogiques/2-%20documentation%20th%C3%A9matique/Fiches%20techniques%20ENM/Les%20diff%C3%A9rents%20cadres%20d)
-
-### 1.3.1. Contrôles d'identité
-
-(*Cf* [*focus* ](http://intranet.justice.gouv.fr/site/dacg/art_pix/DACG%20FOCUS-Contr%F4les%20d%27identit%E9%20-version%20juillet%202021.pdf)[DACG \- juillet 2021](http://intranet.justice.gouv.fr/site/dacg/art_pix/DACG%20FOCUS-Contr%F4les%20d%27identit%E9%20-version%20juillet%202021.pdf) \+ [tableau récapitulatif](http://intranet.justice.gouv.fr/site/dacg/art_pix/Tableau%20synt%E9htique%20des%20contr%F4les%20d%27identit%E9.pdf) et [dépêche du 6 mars 2017](http://intranet.justice.gouv.fr/site/dacg/art_pix/depeche_06032017_close.pdf))
-
-Contrôles opérés par les OPJ et, sur l'ordre et sous la responsabilité de ceux-ci (le plus souvent par le biais d'instructions permanentes), par les APJ et APJa.
-
-#### 1.3.1.1. Contrôles et relevés d'identité judiciaires
-
-##### 1.3.1.1.1. Contrôle de police judiciaire aussi dit "contrôle d'initiative" ou "contrôle individualisé" 
-
-([art 78-2*](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000024413680), al 1 à 6)
-
-Contrôle lié aux recherches ou poursuites d'infractions réalisé :
-
-- s'il existe une ou plusieurs "*raisons plausibles*", qui sont des éléments apparents càd des signes objectifs, visibles de tous, allant au-delà du simple soupçon devant être visés dans le PV ; faire modifier le PV si ce n'est pas assez précis. N'étant pas harmonisée par la Cass, la jurisprudence sur la notion de raison plausible est erratique [sauf à être étayé](CA Nîmes, 4 juillet 2019) un rens anonyme ne suffit pas ; constituent, en revanche, une raison plausible, le fait de se cacher à la vue des FDO ([Crim., 14 avril](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000030495354&fastReqId=444899372&fastPos=1) [2015](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000030495354&fastReqId=444899372&fastPos=1)), de commettre une infraction (CA Aix-en-Provence, 24 juillet 2020)
-
-- laissant penser que la personne contrôlée :
-
- 1. a commis ou tenté de commettre une infraction,
-
- 2. ou se prépare à commettre un crime ou un délit,
-
- 3. ou peut fournir des renseignements sur un crime ou un délit,
-
- 4. ou fait l'objet de recherches ordonnées par une autorité judiciaire,
-
- 5. ou a violé les obligations ou interdictions auxquelles elle est soumise dans le cadre d'un CJ, d'une mesure d'ARSE, d'une peine ou d'une mesure suivie par le JAP.
-
-##### 1.3.1.1.2. Contrôle sur réquisitions du procureur de la République
-
- ([*art 78-2*](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000024413680)*, al 7, et* [*art 78-2-2*](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311907?fonds=CODE&page=1&pageSize=10&query=article%2B78-2-2&searchField=ALL&searchType=ALL&tab_selection=all&typePagination=DEFAULT)*)*
-
-Le PR peut, dans les lieux et pour une période de 24 h *maximum*, faire procéder à des contrôles d'identité aux fins de recherche et de poursuite d'infractions qu'il précise. Le PR n'a pas d'obligation de motivation de ses réquisitions mais doit exister un lien entre les infractions recherchées et le périmètre du contrôle ([CA Aix-en-Provence, 21 mai 2021](http://srvjuricanet.cour-de-cassation.justice.fr/jurica/intranet/juri_affiche.php?juri_idx=2388554&ftxt=contr%F4le%2Bd%27identit%E9%2B78-2-2%2B%2B%2B%2B)). Les FDO n'ont pas ici besoin de faire état d'une raison plausible.
-
-Même si cela relève en pratique des attributions réservées du PR, un substitut peut être amené à signer des réquisitions de 78-2 et [78-2-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311907?fonds=CODE&page=1&pageSize=10&query=article%2B78-2-2&searchField=ALL&searchType=ALL&tab_selection=all&typePagination=DEFAULT) en urgence (*teknival*...).
-
-Le Cons. const. a jugé que le PR ne peut retenir des lieux et périodes sans lien avec la recherche des infractions visées dans ses réquisitions ([2e Civ., 2 septembre 2020](https://www.legifrance.gouv.fr/juri/id/JURITEXT000042314899?page=1&pageSize=10&query=19-50.013&searchField=ALL&searchType=ALL&sortValue=DATE_DESC&tab_selection=juri&typePagination=DEFAULT) : ce lien peut résulter des mentions des réquisitions mais aussi des pièces sur la base desquelles elles ont été prises) et ne peut, en particulier par un cumul de réquisitions portant sur des lieux ou des périodes différents, autoriser la pratique de contrôles d'identité généralisés dans le temps ou dans l'espace ([Cons. const., 24 janvier 2017](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2016-606/607-qpc/decision-n-2016-606-607-qpc-du-24-janvier-2017.148526.html)). La reconduction de la durée de la réquis est donc possible sur décision expresse et motivée ([Crim., 13 septembre 2017](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000035966971&fastReqId=190575491&fastPos=1)) mais ne peut, au global, excéder 24 h ([1re Civ., 14 mars 2018](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000036741993&fastReqId=1146902535&fastPos=1)).
-
-Dans la seule hypothèse où certaines infractions précises sont visées dans ses réquisitions aux fins de contrôles d'identité (terrorisme, ILA, explosif, vol, recel ou ILS), l'[art 78-2-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311907?fonds=CODE&page=1&pageSize=10&query=article%2B78-2-2&searchField=ALL&searchType=ALL&tab_selection=all&typePagination=DEFAULT) permet au PR de doubler ses réquisitions de contrôle d'identité d'une autorisation donnée aux FDO de :
-
-- fouiller des véhicules circulant ou arrêtés ([art 78-2-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311907?fonds=CODE&page=1&pageSize=10&query=article%2B78-2-2&searchField=ALL&searchType=ALL&tab_selection=all&typePagination=DEFAULT), II) ;
-
-- fouiller des navires ([art 78-2-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311907?fonds=CODE&page=1&pageSize=10&query=article%2B78-2-2&searchField=ALL&searchType=ALL&tab_selection=all&typePagination=DEFAULT), III *bis*) ;
-
-- regarder le contenu de bagages et les fouiller ([art 78-2-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311907?fonds=CODE&page=1&pageSize=10&query=article%2B78-2-2&searchField=ALL&searchType=ALL&tab_selection=all&typePagination=DEFAULT), III).
-
-Quelques règles spécifiques trouvent à s'appliquer dans certains cas précis lorsque le PR délivre des réquisitions, toujours fondées sur les [art 78-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000024413680), al 7, et [78-2-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311907?fonds=CODE&page=1&pageSize=10&query=article%2B78-2-2&searchField=ALL&searchType=ALL&tab_selection=all&typePagination=DEFAULT) :
-
-- lieux à usage professionnel où sont en cours des activités afin de lutter contre le travail illégal ( [art 78-](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D2BB89D02A05A04EFDAC9BD3F4694F570.tpdila20v_3?idArticle=LEGIARTI000026363136&cidTexte=LEGITEXT000006071154&dateTexte=20170509&categorieLien=id&oldAction=rechCodeArticle&nbResultRech) [2-1](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D2BB89D02A05A04EFDAC9BD3F4694F570.tpdila20v_3?idArticle=LEGIARTI000026363136&cidTexte=LEGITEXT000006071154&dateTexte=20170509&categorieLien=id&oldAction=rechCodeArticle&nbResultRech)). Il est notamment recouru à cet article s'agissant des entreprises ciblées par un CODAF ;
-
-- manifestations en vue de lutter contre la participation à un attroupement armé ([art 78-2-5](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D9E4FE1C841380C2E7F62E97AB8ABDC1B.tplgfr29s_3?idArticle=LEGIARTI000038382550&cidTexte=LEGITEXT000006071154&dateTexte=20190919)) ;
-
- - compétence territoriale pour les contrôles réalisés dans les trains ([art 78-7](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D2BB89D02A05A04EFDAC9BD3F4694F570.tpdila20v_3?idArticle=LEGIARTI000032284231&cidTexte=LEGITEXT000006071154&dateTexte=20170509&categorieLien=id&oldAction=rechCodeArticle&nbResultRech)). 
-
-##### 1.3.1.1.3. Relevés d'identité
-
-Il s'agit ici d'un relevé, non coercitif, et non d'un contrôle donc l'auteur du contrôle n'est pas autorisé à retenir la personne sans intervention d'un OPJ.
-
-On trouve le relevé de l'identité des auteurs de contraventions verbalisés par un APJa ([art 78-6](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D40BD15EFA2C802078D32CDE72E212A44.tpdila13v_2?idArticle=LEGIARTI000034114850&cidTexte=LEGITEXT000006071154&dateTexte=20170422)) ou par de nombreux fonctionnaires et agents chargés de certaines fonctions de police judiciaire (par ex, les agents assermentés des services publics des transports : [art L. 2241-2 code des transports](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D665DC2672ECA95A89C18B2943C079003.tplgfr31s_2?idArticle=LEGIARTI000039785700&cidTexte=LEGITEXT000023086525&categorieLien=id&dateTexte) et [art 529-4](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000039785732&cidTexte=LEGITEXT000006071154&dateTexte=20191227), II)
-
-#### 1.3.1.2. Contrôle de police administrative 
-
-([*art 78-2*](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000024413680)*, 8e alinéa, et* [*art 78-2-4*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D7589D02477B5ADE1CA129603504AA23E.tplgfr31s_2?idArticle=LEGIARTI000032655103&cidTexte=LEGITEXT000006071154&dateTexte=20200415)*)*
-
-Ce contrôle a pour but de prévenir les atteintes à l'ordre public (notamment à la sécurité des personnes et des biens). Toute personne peut être contrôlée et peu importe son comportement. Contrôles réalisés sur réquisitions le plus souvent du commissaire. Ils ne doivent être ni généralisés, ni discrétionnaires ([Cons. const., 24 janvier 2017](https://www.conseil-constitutionnel.fr/decision/2017/2016606_607QPC.htm)).
-
-Il faut une motivation faisant état d'une réalité concrète, de nature à caractériser la menace à l'ordre public. Ça peut résulter d'une situation antérieure sur une zone donnée, objectivement constatée, de laquelle il est déduit une menace de désordre à venir (nombreuses infractions commises à cet endroit).
-
-Lorsqu'il s'agit de prévenir une atteinte grave à la sécurité des personnes et des biens, l'[art 78-2-4](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D7589D02477B5ADE1CA129603504AA23E.tplgfr31s_2?idArticle=LEGIARTI000032655103&cidTexte=LEGITEXT000006071154&dateTexte=20200415) autorise les FDO à aller au-delà du simple contrôle d'identité. Elles peuvent ainsi :
-
-- fouiller des véhicules circulant ou arrêtés ;
-- regarder le contenu de bagages et les fouiller.
-
-Il faut ici que le propriétaire du véhicule et/ou du bagage y consente. S'il n'y consent pas, les FDO peuvent y être autorisées par le PR.
-
-##### 1.3.1.2.1. Contrôle frontalier dit "Schengen"
-
- ([art 78-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=&idArticle=LEGIARTI000024413680), 9e et 10e alinéas)
-
-Le contrôle Schengen permet aux forces de l'ordre de vérifier le respect des obligations liées aux titres et documents pour lutter contre l'immigration irrégulière et contre la criminalité transfrontalière. Il peut avoir lieu dans une zone située à moins de 20 km de la frontière terrestre séparant la France d'un pays voisin "*Schengen*" ainsi que dans les zones accessibles au public des ports, aéroports et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté ainsi qu'aux abords de ces gares ( *cf* [arrêté du 22 mars](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025577590) [2012](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025577590)). Le contrôle ne peut excéder une durée de 12 heures consécutives dans un même lieu. Les contrôles Schengen peuvent également avoir lieu dans un rayon maximal de 10 km autour des ports et aéroports.
-
-Les agents des douanes disposent exactement des mêmes prérogatives ([art 67](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&idArticle=LEGIARTI000006615389&dateTexte&categorieLien=cid) [*quate*](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&idArticle=LEGIARTI000006615389&dateTexte&categorieLien=cid)*r* [code des](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&idArticle=LEGIARTI000006615389&dateTexte&categorieLien=cid) [douanes](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&idArticle=LEGIARTI000006615389&dateTexte&categorieLien=cid)).
-
-##### 1.3.1.2.2. Contrôles de titre
-
-Ils visent à s'assurer que l'intéressé dispose des autorisations administratives nécessaires.
-
-On trouve, notamment, le contrôle du permis de conduire des conducteurs (art [R. 233-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000006841508&dateTexte&categorieLien=cid) et [L. 233-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000006841040&dateTexte&categorieLien=cid) code de la route), dit *contrôle routier*, qui peut être mis en œuvre même si le conducteur n'a commis aucune infraction (passagers ne peuvent être contrôlés que sur le fondement du CPP donc contrôle de PJ avec odeur de cannabis par exemple ; dès lors que les FDO n'ont pas eux-mêmes procédé à l'ouverture du coffre du VL ni à la manipulation des objets s'y trouvant, la découverte d'indice apparent conduit à l'ouverture d'une enquête de flagrance : [Crim., 9 janvier 2002](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071352?dateDecision=09/01/2002&page=1&pageSize=10&query=coffre&searchField=ALL&searchType=ALL&sortValue=DATE_DESC&tab_selection=juri&typePagination=DEFAULT)).
-
-##### 1.3.1.2.3. Vérification de situation des étrangers 
-
-([*art L. 812-1 et s.*](https://www.legifrance.gouv.fr/codes/section_lc/70158/LEGISCTA000042773654/#LEGISCTA000042774656)*CESEDA)*
-
-Vérification des titres de séjour des étrangers en dehors de tout contrôle d'identité ou à l'occasion d'un tel contrôle.
-
-##### 1.3.1.2.4. Contrôles opérés par certains fonctionnaires
-
-- contrôle douanier ([art 67](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DF79C7199416E619670A4FCC3EB3DC3C4.tplgfr31s_2?idArticle=LEGIARTI000006615433&cidTexte=LEGITEXT000006071570&dateTexte=20200814) code des douanes), qui permet aux douaniers de contrôler les personnes circulant "*dans le rayon des douanes*" ([art 44](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DF79C7199416E619670A4FCC3EB3DC3C4.tplgfr31s_2?idArticle=LEGIARTI000033557484&cidTexte=LEGITEXT000006071570&dateTexte=20200814) code des douanes) ;
-
-- demande d'identité des travailleurs et employés par les inspecteurs du travail ([art L. 8113-2 code du](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033025215/) [travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033025215/)), *etc*.
-
-#### 1.3.1.3. Les vérifications
-
-Si la personne ne peut pas justifier immédiatement de son identité, on bascule en retenue pour **vérification d'identité** *(*[*art 78-3 et s.*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D2BB89D02A05A04EFDAC9BD3F4694F570.tpdila20v_3?idArticle=LEGIARTI000006575175&cidTexte=LEGITEXT000006071154&dateTexte=20170509&categorieLien=id&oldAction=rechCodeArticle&nbResultRech)*)*, qui est une mesure de rétention d'une durée maximale de 4 heures.
-
-Le PR peut ici autoriser à faire prendre les empreintes digitales (la comparaison au FAED prend entre 2 et 3 heures) et des photographies s'il n'y a pas d'autres moyens de prouver l'identité de l'intéressé. S'il refuse, il commet un délit (prévu par [78-5](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D2BB89D02A05A04EFDAC9BD3F4694F570.tpdila20v_3?idArticle=LEGIARTI000006575183&cidTexte=LEGITEXT000006071154&dateTexte=20170509&categorieLien=id&oldAction=rechCodeArticle&nbResultRech)) donc placement en GAV (GAV qui donnera plus de temps pour découvrir l'identité de l'intéressé mais pas de CI car délit puni de seulement 3 mois...). L'individu a le droit de faire aviser le PR et de faire prévenir sa famille ou une personne de son choix.
-
-Une procédure similaire de retenue pour **vérification de situation** existe en matière de prévention du terrorisme *(*[*art 78-3-1*](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037825584&cidTexte=LEGITEXT000006071154&dateTexte=20190601)*)*.
-
-### 1.3.2. Interpellation
-
-En **flagrance**, l'[art 73](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D40BD15EFA2C802078D32CDE72E212A44.tpdila13v_2?idArticle=LEGIARTI000029000766&cidTexte=LEGITEXT000006071154&dateTexte=20170422) permet à quiconque d'interpeller l'auteur d'un crime ou délit passible de prison même à l'intérieur d'un domicile entre 6h et 21h (ainsi, dans le cadre d'une perquisition en prélim, on pourra interpeller si l'on découvre une infraction flagrante comme stup ou recel). Avec un MEC qui se trouve son domicile entre 21h et 6h, demander aux FDO de se mettre en surveillance jusqu'à 6 heures.
-
-L'OPJ peut également interpeller toute personne à laquelle il avait défendu de s'éloigner du lieu de l'infraction (art 61).
-
-En **flagrance** concernant les témoins ([art 61](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575054&dateTexte&categorieLien=cid)) comme en **préliminaire** concernant les témoins et MEC ([art 78](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023876668&cidTexte=LEGITEXT000006071154)), le PR autorise l'interpellation des personnes :
-
-- qui n'ont pas répondu à une convocation à comparaître ;
-- dont on peut craindre qu'elles ne répondent pas à une telle convocation ;
-- en cas de risque de modification des preuves ou indices matériels ;
-- en cas de risque de pressions sur les témoins ou les victimes ainsi que sur leur famille ou leurs proches ;
-- en cas de risque de concertation entre les coauteurs ou complices de l'infraction.
-
-L'interpel peut être exécutée par un OPJ ou par un APJ ([Q2093](http://faq.dacg.intranet.justice.gouv.fr/index.php?act=2&&page=128&selection=2093&2093) FAQ DACG). La Cass ne soumet cette autorisation à aucun formalisme ([Crim., 29 mai 2013](https://www.legifrance.gouv.fr/juri/id/JURITEXT000027595851?isSuggest=true)) mais nombreux sont ceux à rédiger un écrit.
-
-En **préliminaire** ([art 77-4](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006575149&cidTexte=LEGITEXT000006071154)) **comme en flagrance** ([art 70](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575105&dateTexte&categorieLien=cid)), le mandat de recherche constitue un titre permettant l'interpellation de toute personne contre laquelle il existe des raisons plausibles de soupçonner qu'elle a participé à la commission d'un crime ou d'un délit puni d'au moins 3 ans d'emprisonnement. 
-
-#### 1.3.2.1. Focus interpellation dans un domicile
-
-| *Préliminaire*                                               | *Flagrance*                                                  |      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| Interpellation possible dans deux cas et toujours entre 6h et 21h : soit avec un mandat de recherche (infraction de 3 ans ou plus : [art 77-4](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D40BD15EFA2C802078D32CDE72E212A44.tpdila13v_2?idArticle=LEGIARTI000006575149&cidTexte=LEGITEXT000006071154&dateTexte=20170422) renvoyant à l'[art 70](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575106/) qui renvoie à l'[art 134](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023717779/)) ; soit avec un [art 78](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023876668&cidTexte=LEGITEXT000006071154) que l'on doit doubler d'une perquisition sans assentiment ([art 76](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575124&dateTexte&categorieLien=cid) : JLD et infraction de 3 ans ou plus) car l'art 78 ne permet plus d'interpeller dans un dom ([Crim., 22 février](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000034085207&fastReqId=46833138&fastPos=1) [2017](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000034085207&fastReqId=46833138&fastPos=1) ; [dépêche du 28 février](http://intranet.justice.gouv.fr/site/dacg/art_pix/depeche_28022017_close.pdf) [2017](http://intranet.justice.gouv.fr/site/dacg/art_pix/depeche_28022017_close.pdf)), et ce, même si les forces de l'ordre constatent la présence d'un individu silencieux dans le domicile ([Crim.,](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000039156938&fastReqId=10117625&fastPos=1) [18 septembre 2019](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000039156938&fastReqId=10117625&fastPos=1)). | Toujours possible entre 6h et 21h Jamais entre 21h et 6h sauf : avec l'autorisation du JLD dans le cadre de la DCO ; en cas de secours aux personnes, les FDO peuvent intervenir à toute heure pour interpeller ([art 59](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575042&dateTexte&categorieLien=cid), al 1) ; (*par exemple, si une personne se fait agresser chez elle à 23 h, les FDO rentrent dans le domicile pour secours aux personnes, interpellent l'agresseur en flag mais, vu que l'on est hors des heures légales, doivent revenir le lendemain pour perquisitionner*) ; en cas de danger actuel ou imminent, sur le fondement de l'état de nécessité ([art](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417220/) [122-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417220/)) ; (*par exemple, un homme faisant feu avec une arme depuis sa fenêtre*). |      |
-
-
-
-### 1.3.3. Témoin
-
-Témoin : personne à l'encontre de laquelle il n'existe "*aucune raison plausible de soupçonner qu'elle a commis ou tenté de commettre une infraction*".
-
-Sur leur protection, *cf* [*focu*](http://intranet.justice.gouv.fr/site/dacg/art_pix/Focus_DACG_Protection_des_temoins_FEV_2018_VF.pdf)*s* [DACG - février 2018](http://intranet.justice.gouv.fr/site/dacg/art_pix/Focus_DACG_Protection_des_temoins_FEV_2018_VF.pdf)
-
-Pour les nécessités de l'enquête, l'OPJ peut convoquer toutes personnes. Les art [61](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000032655625) (flag) et [78](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023876668&cidTexte=LEGITEXT000006071154) (prélim) applicables aux témoins, permettent à l'OPJ autorisé par PR de recourir à la force publique pour faire comparaître :
-
-- une personne qui n'a pas répondu à une convocation à comparaître ;
-- une personne dont on peut craindre qu'elle ne réponde pas à une convocation ;
-- en cas de risque de modification des preuves ou indices matériels ;
-- en cas de risque de pressions sur les témoins ou les victimes ainsi que sur leur famille ou leurs proches ;
-- en cas de risque de concertation entre les coauteurs ou complices de l'infraction.
-
-Défense de s'éloigner du lieu de l'infraction flagrante : OPJ peut retenir le témoin le temps de son audition ([art 61](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000032655625)). L'OPJ peut également défendre à une personne de s'éloigner du lieu de la perquisition que ce soit en préliminaire ([art 76](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022470061&cidTexte=LEGITEXT000006071154)) ou en flagrance ([art 56](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D847D3AC3EB4A27582DD4F945B5A1F2A6.tplgfr31s_1?idArticle=LEGIARTI000042193522&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte), al 11).
-
-En flagrance ([art 61](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575054&dateTexte&categorieLien=cid)) comme en préliminaire ([art 78](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023876668&cidTexte=LEGITEXT000006071154)), le PR peut autoriser leur comparution forcée. Rétention aux fins d'audition : le principe général est celui de l'audition sans contrainte des témoins.
-
-Toutefois, par exception, ils peuvent être retenus 4 heures (art [62](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D40BD15EFA2C802078D32CDE72E212A44.tpdila13v_2?idArticle=LEGIARTI000029000775&cidTexte=LEGITEXT000006071154&dateTexte=20170422) et [78](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D40BD15EFA2C802078D32CDE72E212A44.tpdila13v_2?idArticle=LEGIARTI000032655614&cidTexte=LEGITEXT000006071154&dateTexte=20170422), al 2).
-
-Lorsqu'apparaissent au cours de l'audition du témoin, des raisons plausibles de le soupçonner d'avoir commis ou tenté de commettre une infraction, il doit être entendu en audition libre ou être placé en garde à vue (nécessairement en GAV s'il était entendu dans le cadre de la retenu des témoins).
-
-**Protection des témoins** ([*focu*](http://intranet.justice.gouv.fr/site/dacg/art_pix/Focus%20protection%20des%20personnes%20encourant%20un%20risque%20-%2025.08.21.pdf)*s* [DACG - octobre 2021](http://intranet.justice.gouv.fr/site/dacg/art_pix/Focus%20protection%20des%20personnes%20encourant%20un%20risque%20-%2025.08.21.pdf)) :
-
-- le témoin peut déclarer l'adresse du ciat sur autorisation du PR ([art 706-57](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D40E769F06C0F56EEB72672A161DE28E5.tplgfr37s_1?idArticle=LEGIARTI000038311400&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte), [R. 53-22 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D39FD94193BE05D61F5F6B04A5B7635F6.tplgfr27s_2?idSectionTA=LEGISCTA000006151017&cidTexte=LEGITEXT000006071154&dateTexte=20200204)) ; - pour un crime ou un délit puni d'au moins 3 ans et en cas de danger pour la vie ou l'intégrité du témoin, le JLD, saisi par requête motivée du PR, peut autoriser un témoignage anonyme (art [706-58](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DEC50B41CAF905D14B84198DD47163755.tplgfr24s_2?idArticle=LEGIARTI000039279259&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte), [706-60](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D6F003AC26E733B026581C2929F81E6E2.tpdila19v_2?idArticle=LEGIARTI000006577751&cidTexte=LEGITEXT000006071154&dateTexte=20020305), [R. 53-27](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D8D3666A21E2388DA56A8015A73355D0B.tplgfr27s_2?idSectionTA=LEGISCTA000006151018&cidTexte=LEGITEXT000006071154&dateTexte=20190506) et s.)
-
-### 1.3.4. Audition libre du suspect
-
-*(art* [*61-1*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DB911A8335E89FAE7BB03D0DCD32A7729.tplgfr24s_1?idArticle=LEGIARTI000038312185&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte)*,* [*62* ](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D2DB92EAC6E8A8EF8554B0709497BEE10.tplgfr23s_2?idArticle=LEGIARTI000029000775&cidTexte=LEGITEXT000006071154&dateTexte=20170422&categorieLien=id&oldAction&nbResultRech)*et* [*77*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D2DB92EAC6E8A8EF8554B0709497BEE10.tplgfr23s_2?idArticle=LEGIARTI000029000782&cidTexte=LEGITEXT000006071154&dateTexte=20170422)*)*
-
-*Cf* fiche technique ENM [Cadres d'audition lors de l'enquête pénale - août 2019](http://enm.intranet.justice.fr/Espaces_Fonctionnels/Parquet/I-%20Ressources%20p%C3%A9dagogiques/2-%20documentation%20th%C3%A9matique/Fiches%20techniques%20ENM/Les%20diff%C3%A9rents%20cadres%20d)
-
-*Cf* fiche DACG [Audition libre par les agents dotés de pouvoirs de police judiciaire en vertu de lois](http://intranet.justice.gouv.fr/site/dacg/art_pix/DACG_Focus_%20Laudition%20libre%20par%20les%20agents%20dot%E9s%20de%20pouvoirs%20de%20police%20judiciaire.pdf) [spéciales - janvier 2020](http://intranet.justice.gouv.fr/site/dacg/art_pix/DACG_Focus_%20Laudition%20libre%20par%20les%20agents%20dot%E9s%20de%20pouvoirs%20de%20police%20judiciaire.pdf)
-
-Peut être mis en œuvre en préliminaire ou en flagrance pour toute infraction (même pour les délits non punis de prison et les contraventions).
-
-Ce régime concerne la personne à l'encontre de laquelle il existe des raisons plausibles de la soupçonner d'avoir commis ou tenté de commettre une infraction. La contrainte (personne menottée ou forcée à monter dans le véhicule des forces de l'ordre) est exclue car implique GAV. Avec une interpellation, il faudra acter l'accord du MEC à suivre les agents interpellateurs (absence de contrainte).
-
-Le témoin entendu librement à l'encontre de qui apparaîtraient au cours de l'audition des raisons plausibles de le soupçonner d'avoir commis ou tenté de commettre une infraction devient suspect. Il sera alors placé en audition libre ce qui implique notification des droits. À l'inverse, si ce témoin faisait l'objet d'une rétention, il serait placé en GAV.
-
-La personne doit être informée de :
-
-- la qualification, date et lieu de l'infraction ;
-
-- du droit de quitter les locaux à tout moment ;
-
-- du droit de faire des déclarations, de répondre aux questions ou de se taire ;
-
-- du droit d'être assistée par un interprète ;
-
-- du droit d'être assistée d'un avocat si crime ou délit puni d'emprisonnement ;
-
-- du droit de bénéficier de conseils juridiques dans une structure d'accès au droit.
-
-En cas de mesure de protection, le tuteur, le curateur ou le mandataire d'une sauvegarde de justice doit être avisé ([art 706-112-2](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idArticle=LEGIARTI000038267714&cidTexte=LEGITEXT000006071154&dateTexte=20190601&categorieLien=id&oldAction)).
-
-En cas d'élément nouveau sur l'infraction pour laquelle le MEC est entendu en audition libre, on peut basculer en GAV que ce soit sur décision de l'OPJ (s'il découvre des éléments nouveaux en cours de GAV) ou sur décision du parquet (si le parquet apporte des éléments nouveaux comme un passif pénal ; on précise bien que c'est sur avis parquet car, le cas échéant, il y aurait un avis parquet tardif).
-
-Si au cours de l'audition libre, l'OPJ découvre de nouvelles infractions, il peut de lui-même placer en GAV.
-
-### 1.3.5. Retenue pour vérification du droit au séjour d'un étranger
-
-*(*[*art L. 813-1 et s. CESEDA*](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042773666/#LEGISCTA000042774644)*)*
-
-Retenue pour vérification du droit au séjour d'un étranger fait suite à : - un contrôle réalisé sur le fondement des [art L. 812-1 et s.](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042773654/#LEGISCTA000042774656) CESEDA ;
-
-- un contrôle d'identité réalisé sur le fondement des [art 78](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023876668&cidTexte=LEGITEXT000006071154) et s. CPP ;
-
-- un contrôle frontalier réalisé sur le fondement de l'[art 67](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&idArticle=LEGIARTI000006615389&dateTexte&categorieLien=cid) [*quate*](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&idArticle=LEGIARTI000006615389&dateTexte&categorieLien=cid)*r* [code des douanes](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&idArticle=LEGIARTI000006615389&dateTexte&categorieLien=cid).
-
-Durée *maximum* de 24 heures, décidée par un OPJ et placée sous le contrôle du PR, avec : - droit à interprète ; - avocat (entretien de 30 mn + assistance aux auditions ; pas de 1re audition sans avocat avant l'expiration d'un délai d'une heure) ; - examen médical ;
-
-- droit de faire prévenir un membre de sa famille ou toute personne de son choix ;
-
-- droit de prévenir les autorités consulaires.
-
-L'étranger ne peut être retenu que pour le temps strictement exigé par l'examen de son droit de circulation ou de séjour et, le cas échéant, le prononcé et la notification des décisions administratives applicables. Les sans-papiers sont désignés par l'acronyme *ESI* (étranger en situation irrégulière).
-
-- PR informé dès le début de la retenue et peut y mettre fin à tout moment.
-
- - De même, le PR doit être informé en cas de prise d'empreintes digitales ou de photographies lorsque celle-ci constitue l'unique moyen d'établir la situation de cette personne.
-
-Le PR contrôle le respect de la durée de la retenue ainsi que le sort du retenu à l'issue (on peut demander ce qu'il advient de l'étranger à l'issue).
-
-Il faut s'assurer que l'étranger est inconnu au FAED ainsi qu'au FPR.
-
-### 1.3.6. Rétentions
-
--   Rétention pour <u>violation d'un CJ ou ARSE</u> : [art 141-4](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DB021B5114E74523AFF7232EDDC36F4A8.tplgfr32s_2?idArticle=LEGIARTI000039778361&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte)
-    -   Rétention pour violation d'une peine (dont sursis probatoire, [art 131-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193554/), al 2, ou [131-11](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006417252&dateTexte&categorieLien=cid), al 2), mesure de sûreté ou aménagement de peine : [art 709-](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000029367569&dateTexte&categorieLien=cid)[1-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000029367569&dateTexte&categorieLien=cid) *(disposition remplaçant l'ancien* [*art 712-16-3*](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023876680/2011-06-01/)*)*
-    
-    -   Rétention pour mise à exécution d'une peine d'emprisonnement ou de réclusion avec recours à la force publique : [art 716-5](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006578010&dateTexte&categorieLien=cid)
-    
-    -   Rétention aux fins de défèrement ([art 803-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006578395) pour les juridictions sans dépôt de nuit ; [art 803-3](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D524A329C607959CC3724F24187DBB040.tplgfr37s_2?idArticle=LEGIARTI000029370879&cidTexte=LEGITEXT000006071154&dateTexte=20181007&categorieLien=id&oldAction&nbResultRech)pour les trois juridictions dotées d'un dépôt aménagé que sont Paris, Créteil et Bobigny)
-
-- Rétention pour <u>vérification d'identité</u> : [art 78-3 et s.](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D2BB89D02A05A04EFDAC9BD3F4694F570.tpdila20v_3?idArticle=LEGIARTI000006575175&cidTexte=LEGITEXT000006071154&dateTexte=20170509&categorieLien=id&oldAction=rechCodeArticle&nbResultRech)
-    -   Rétention pour vérification de situation en matière de prévention du terrorisme : [art 78-3-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037825584&cidTexte=LEGITEXT000006071154&dateTexte=20190601) 
-    -   Rétention consécutive à une mesure de contrôle ou de vérification d'identité en cas de raisons sérieuses de penser que le comportement de la personne peut être lié à des activités à caractère terroriste : [art 78-3-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000032633971) 
-    -   Rétention pour IPM : [art L. 3341-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023876785&cidTexte=LEGITEXT000006072665), al 1, CSP (à l'issue, GAV ou audition libre : [art L. 3341-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032655830)) 
-    -   Rétention du témoin : [art 62](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D4772E11A245EFA81B9E1CAA6255C83A2.tpdila16v_2?idArticle=LEGIARTI000029000775&cidTexte=LEGITEXT000006071154&dateTexte=20170531), al 2 
-    -   Rétention des personnes présentes sur le lieu de l'infraction : [art 61](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D32689BC0E51A1813D7D46C6E78F32736.tpdila13v_2?idArticle=LEGIARTI000032655625&cidTexte=LEGITEXT000006071154&dateTexte=20170619), al 1 
-    -   Rétention des personnes présentes lors de la perquisition : [art 56](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D847D3AC3EB4A27582DD4F945B5A1F2A6.tplgfr31s_1?idArticle=LEGIARTI000042193522&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte), dernier al 
-    -   Rétention nécessaire pour procéder aux épreuves de dépistage et de vérification de l'état alcoolique du conducteur : art [L. 234-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000006841049&dateTexte&categorieLien=cid), [L. 234-5](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DFE6FC7B2113AB51C331A4D1BE5104B77.tplgfr41s_1?idArticle=LEGIARTI000038312011&cidTexte=LEGITEXT000006074228&categorieLien=id&dateTexte) et [L. 235-5](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074228&idArticle=LEGIARTI000006841080&dateTexte&categorieLien=cid) code de la route (à l'issue, GAV ou audition libre : [art L. 234-18](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032655825)) 
-    -   Rétention douanière : [art 323-1 et s. code des douanes](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D52FBC0DE5E47A1F3BD0174ACDD7E30E5.tplgfr27s_2?idSectionTA=LEGISCTA000023876737&cidTexte=LEGITEXT000006071570&dateTexte=20200204) 
-    -   Rétention douanière provisoire des personnes faisant l'objet d'un signalement (ou qui sont détentrices d'un objet signalé à la suite de la consultation de fichiers de police) aux fins de mise à disposition d'un OPJ : [art 67](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D320C03A9A20D0F2BCF8E59D94DA262CE.tplgfr32s_2?idArticle=LEGIARTI000037825289&cidTexte=LEGITEXT000006071570&categorieLien=id&dateTexte) [*te*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D320C03A9A20D0F2BCF8E59D94DA262CE.tplgfr32s_2?idArticle=LEGIARTI000037825289&cidTexte=LEGITEXT000006071570&categorieLien=id&dateTexte)*r* [code des douanes](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D320C03A9A20D0F2BCF8E59D94DA262CE.tplgfr32s_2?idArticle=LEGIARTI000037825289&cidTexte=LEGITEXT000006071570&categorieLien=id&dateTexte) 
-    -   Rétention douanière le temps d'exercer le droit de visite des marchandises, des moyens de transport et des personnes ([art 60 code des douanes](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006615393&cidTexte=LEGITEXT000006071570&dateTexte=19490101) ; [Crim., 18 mars 2020](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000041810292&fastReqId=1871683409&fastPos=7)) 
-    -   Rétention, gérée par le parquet général, d'un individu visé par :
-    
--   un <u>mandat d'arrêt européen</u> émis par des autorités étrangères : [art 695-27](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DF79D8C105052086E46A77193B7A41982.tplgfr30s_3?idArticle=LEGIARTI000032655493&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte) 
--   une <u>demande d'extradition</u> : [art 696-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023876710)
-    -   Rétention pour mise à exécution d'un mandat d'arrêt décerné contre une personne découverte après le règlement de l'information : [art 135-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279499?init=true&page=1&query=code%2Bde%2Bproc%C3%A9dure%2Bp%C3%A9nale&searchField=ALL&tab_selection=all) 
-    -   Rétention pour mise à exécution d'un mandat d'amener ou d'arrêt décerné par le juge de l'application des peines contre une personne condamnée : [art 712-17](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006577898&dateTexte&categorieLien=cid) 
-    -   Mesures restrictives ou privatives de liberté prises en haute mer par les commandants des bâtiments de l'État : [art L. 1521-12 et s. code de la défense](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D59E8CFE5C32371F806B35433E66F6FD9.tplgfr30s_3?idSectionTA=LEGISCTA000023376659&cidTexte=LEGITEXT000006071307&dateTexte=20180730)
-
-## 1.4. GAV
+## 1.3. GAV
 
 *(art* [*62-2* ](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000023865405)*et s.)*
 
@@ -1021,7 +705,7 @@ Placement par un OPJ "*d'office ou sur instruction du PR*" ([art 63](https://www
 "*Le PR contrôle les mesures de garde à vue. Il visite les locaux de garde à vue chaque fois qu'il l'estime nécessaire et au moins une fois par an*" ([art 41](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DD6A48055DDADF385EA639BAA7B842C1C.tplgfr21s_2?idArticle=LEGIARTI000038311420&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte=20200324), al 3 ; § I.3.1 de la [circ. du 4 décembre 2000](http://www.justice.gouv.fr/bulletin-officiel/dacg80g.htm#131)).
 
 "*La garde à vue s'exécute sous le contrôle du PR* (…) *Il peut ordonner à tout moment que la personne gardée à vue soit présentée devant lui ou remise en liberté*" ([art 62-3](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D9357549AC6CDE796E783B68BDE47E093.tpdila13v_2?idArticle=LEGIARTI000023865407&cidTexte=LEGITEXT000006071154&dateTexte=20170531&categorieLien=id&oldAction&nbResultRech)). 
-### 1.4.1. Conditions
+### 1.3.1. Conditions
 
 - Un crime ou un délit passible d'**emprisonnement** (attention aux violences sans ITT, ou avec une ITT ≤ à 8 jours, sans circonstance aggravante qui sont contraventionnelles).
 
@@ -1047,7 +731,7 @@ Placement par un OPJ "*d'office ou sur instruction du PR*" ([art 63](https://www
 
 :::
 
-### 1.4.2. Durée et point de départ
+### 1.3.2. Durée et point de départ
 
 Durée de 24 heures renouvelable pour 24 nouvelles heures avec une infraction punie d'une peine supérieure ou égale à 1 an ([art 63](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idArticle=LEGIARTI000038311888&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte), II) ; *cf* [liste des infractions punies de moins d'un an](http://intranet.justice.gouv.fr/site/dacg-cjn/art_pix/quantum_inferieur_a1an.pdf) \- 2017.
 
@@ -1061,7 +745,7 @@ On imputera en outre les durées des GAV antérieures ([art 63](https://www.legi
 
 La durée des GAV antérieures pour faits distincts ne s'impute pas sur la GAV en cours sauf si les deux GAV se succèdent immédiatement ou que la 2nde intervient dans un délai très proche (moins de 24 heures).
 
-### 1.4.3. Droits du gardé à vue
+### 1.3.3. Droits du gardé à vue
 
 **( 1° ) Avis parquet** ([art 63](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idArticle=LEGIARTI000038311888&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte), al 1) par tout moyen (appel, mail, fax, *etc.*) précisant l'identité de la personne, l'heure du placement, le ou les motifs de placement ainsi que la qualification des faits. Le PR peut changer la qualification de la GAV (*cf* plus bas). En tout état de cause, au terme de la GAV, le PR n'est pas lié par la qualification retenue par les OPJ.
 
@@ -1177,7 +861,7 @@ Pas d'enregistrement pour les auditions hors locaux de police / gendarmerie comm
 
 **( 13° )** Au terme de la garde à vue, si l'intéressé est remis en liberté sans qu'une décision ait été prise par le procureur sur l'action publique, il doit être **informé des dispositions de l'**[**art 77-2** ](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032655262&cidTexte=LEGITEXT000006071154&dateTexte=20160605)sur le fondement desquelles il peut demander à consulter le dossier de la procédure un an plus tard en vue de formuler des observations ([art 63-8](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023865461&cidTexte=LEGITEXT000006071154&dateTexte=20110601)).
 
-### 1.4.4. Prolongation
+### 1.3.4. Prolongation
 
 *(*[*art 63*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idArticle=LEGIARTI000038311888&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte)*, II)*
 
@@ -1201,7 +885,7 @@ Lorsqu'il est applicable, il convient de viser le régime dérogatoire dès la 1
 
 La décision du parquet de prolonger une GAV peut régulièrement être prise plusieurs heures avant la fin des premières 24 heures ([Crim., 20 décembre 2000](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007068614&fastReqId=674889498&fastPos=1)).
 
-### 1.4.5. Pluralité de faits
+### 1.3.5. Pluralité de faits
 
 Bien plus souple que la garde à vue supplétive supprimée par la [loi du 27 mai 2014](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028989964&categorieLien=id), le mécanisme procédural de l'[art 65](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000029000826) prévoit une notification allégée :
 
@@ -1229,7 +913,7 @@ Si l'on ne souhaite pas faire entendre le MEC sur les nouveaux faits dans le cad
 
 - Si l'on souhaite *des procédures distinctes* c'est-à-dire une pour les faits pour lesquels le MEC a été placé en GAV et d'autres pour les autres infractions : - soit on demande aux enquêteurs de faire se succéder 2 GAV distinctes mais la durée totale de ces GAV ne devra pas excéder celle prévue par la loi ([Crim., 17 mars 2004](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007071054&fastReqId=291921486&fastPos=1)) ; cette option devra être privilégiée pour une personne placée en GAV initialement pour un délit de faible gravité que les enquêteurs souhaitent entendre sur un crime ou un délit plus grave ; plus avant, cette option s'impose si les faits distincts pour lesquels il est souhaité une audition sous le régime de la GAV obéissent à un régime dérogatoire de GAV ; - soit on fait application de l'[art 65](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000029000826). Le gardé à vue sera alors entendu sur son temps de repos. Les auditions sur les infractions distinctes seront jointes à la procédure distincte à laquelle il faudra également joindre les PV de placement et de levée de GAV.
 
-### 1.4.6. Divers
+### 1.3.6. Divers
 
 Pour une *personne qui refuse de donner son identité*, on place en GAV sous X. Pour établir son identité, on recherche des papiers sur elle (fouille dans le cadre de la GAV), dans son véhicule et dans ses sacs, on prend ses empreintes, on passe son véhicule aux fichiers, perquisition, enquête de voisinage, ADN (très long) ...
 
@@ -1267,7 +951,7 @@ Placement en GAV d'un *parent dont les enfants* ne peuvent pas être confiés pr
 
 - si le gardé à vue s'y oppose, il faut prendre une OPP ([art 375 code civil](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006426776)).
 
-## 1.5. Actes d'enquête
+## 1.4. Actes d'enquête
 
 *Cf* fascicule [ENM](http://enm.intranet.justice.fr/Espaces_Fonctionnels/Parquet/I-%20Ressources%20p%C3%A9dagogiques/1-%20Fascicules/Attributions%20p%C3%A9nales/Fascicule%20Les%20Enqu%C3%AAtes%20MAJ%20Ao%C3%BBt%202017.pdf) [Les enquêtes - août 2017](http://enm.intranet.justice.fr/Espaces_Fonctionnels/Parquet/I-%20Ressources%20p%C3%A9dagogiques/1-%20Fascicules/Attributions%20p%C3%A9nales/Fascicule%20Les%20Enqu%C3%AAtes%20MAJ%20Ao%C3%BBt%202017.pdf)
 
@@ -1279,7 +963,7 @@ Placement en GAV d'un *parent dont les enfants* ne peuvent pas être confiés pr
 
 [Art R. 2-16](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D9A9D9D952C6DC8A5ADDDA1B6C10B796D.tplgfr23s_3?idArticle=LEGIARTI000024665258&cidTexte=LEGITEXT000006071154&dateTexte=20200223) : "*les OPJ, à l'occasion d'une enquête* (...)*, ne peuvent solliciter ou recevoir des ordres ou instructions que de l'autorité judiciaire dont ils dépendent.*"
 
-### 1.5.1. Procès-verbaux
+### 1.4.1. Procès-verbaux
 
 Sauf consigne contraire du PR, que ce soit en prélim ou en flag, les enquêteurs peuvent relater leurs différents actes d'enquête dans un seul et même PV ([art D. 11](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006514819&cidTexte=LEGITEXT000006071154) ; [fiche 2](http://intranet.justice.gouv.fr/site/dacg/art_pix/Fiche2_Procedures_simplifiees_et_PV_unique.pdf) de la [circ. du 16 novembre 2018](http://intranet.justice.gouv.fr/site/dacg/art_pix/Circulaire_2018-11-16_conjointe_DACG-DGGN-DGPN_simplification_procedure_penale_droit_constant.pdf)). On parle alors de "*PV unique*", "*simplifié*" (PVS) ou de "*procédure simplifiée*" (la règle *un acte - un PV* se maintient en commission rogatoire). Les infractions pouvant faire l'objet de cette procédure simplifiée sont visées par la DACG ([circ. du 8 septembre 2016](http://www.textes.justice.gouv.fr/art_pix/JUSD1625322C.pdf)) et, pour les autres, il convient de rédiger un PV par acte.
 
@@ -1303,7 +987,7 @@ Sur un plan probatoire :
 
 Le fait que le MEC refuse de signer le PV n'entraîne aucune conséquence probatoire dès lors que ce refus est bien acté ([Crim., 2 septembre 2020](http://intranet.cour-de-cassation.intranet.justice.fr/Rpvjcc/Jurinet/Arret.asp?ID_ARRET=1719404&CritereTerme)).
 
-### 1.5.2. Plainte
+### 1.4.2. Plainte
 
 Les plaintes peuvent être reçues par les OPJ ou les APJ. Ils sont tenus de les recevoir et doivent les transmettre aux services territorialement compétents s'ils ne le sont pas eux-mêmes ([art 15-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006574860&cidTexte=LEGITEXT000006071154)).
 
@@ -1311,11 +995,11 @@ Plainte électronique régie par les [art 15-3-1](https://www.legifrance.gouv.fr
 
 La [pré-plainte en ligne](https://www.pre-plainte-en-ligne.gouv.fr/) permet aux victimes de compléter leur plainte sur internet avant de se rendre dans un ciat ou une brigade pour la signer. La plainte simplifiée permet aux victimes de déposer une plainte par le biais d'un document pré-rempli.
 
-### 1.5.3. Dénonciation
+### 1.4.3. Dénonciation
 
 Les tiers à une infraction, s'ils ne peuvent pas porter plainte pour la victime, peuvent la dénoncer ([art 17](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574871/2021-10-03/)).
 
-### 1.5.4. Constat
+### 1.4.4. Constat
 
 Perception par un agent des forces de l'ordre d'une infraction flagrante commise sur la voie publique, dans un endroit ouvert au public, dans un lieu privé accessible aux regards extérieurs depuis l'espace public ([Crim., 23 août 1994](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007067805) et lecture *a contrario* de [Crim., 21 mars 2007](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000017915608)) ou dans un lieu clos privé où il est entré légalement (interdiction de pénétration dans un domicile entre 21h et 6h sauf cas précis).
 
@@ -1323,7 +1007,7 @@ Bien qu'elle ne soit pas encadrée en droit commun, la surveillance physique (fi
 
 Tant que les enquêteurs ont un rôle passif, ils ont droit de dissimuler leur qualité.
 
-### 1.5.5. Constatations
+### 1.4.5. Constatations
 
 Ensemble des opérations postérieures au constat tendant à l'administration de la preuve (recueil des traces ou indices). Elles sont réalisées par l'OPJ qui, en cas de crime flagrant, a l'obligation de se transporter sur place ([art 54](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575019&dateTexte&categorieLien=cid)).
 
@@ -1335,7 +1019,7 @@ L'arrivée du parquet sur les lieux d'une infraction dessaisit momentanément l'
 
 l'enquête donc, sauf cas particulier, il faut faire acter qu'on lui prescrit de poursuivre les investigations ([art 68](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DCB855213B996531A088334A06D52C04B.tplgfr31s_2?idArticle=LEGIARTI000006575101&cidTexte=LEGITEXT000006071154&dateTexte=20200216)).
 
-### 1.5.6. Reconnaissance par le plaignant / témoin
+### 1.4.6. Reconnaissance par le plaignant / témoin
 
 - Lorsque l'auteur de l'infraction n'est pas identifié mais que le plaignant ou que le témoin a pu l'apercevoir ou le voir, ce dernier peut être invité à :
 
@@ -1351,7 +1035,7 @@ l'enquête donc, sauf cas particulier, il faut faire acter qu'on lui prescrit de
 
 - d'une confrontation.
 
-### 1.5.7. Confrontation
+### 1.4.7. Confrontation
 
 Peut être réalisé avec un suspect en audition libre ou en GAV. Bien que ce ne soit pas imposé par la loi, il convient d'obtenir l'accord des parties au préalable. On pourra tirer toute conséquence d'un refus qu'il faudra faire acter.
 
@@ -1359,15 +1043,15 @@ La confrontation est dirigée par l'enquêteur qui pose seul les questions.
 
 Présence de l'avocat du suspect ([art 63-4-2](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D336341170D347B6C688A3B5EA3C73446.tplgfr41s_3?idArticle=LEGIARTI000032655456&cidTexte=LEGITEXT000006071154&dateTexte=20161115)) et du plaignant ([art 61-2](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D336341170D347B6C688A3B5EA3C73446.tplgfr41s_3?idArticle=LEGIARTI000028991097&cidTexte=LEGITEXT000006071154&dateTexte=20161115) et [63-4-5](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D336341170D347B6C688A3B5EA3C73446.tplgfr41s_3?idArticle=LEGIARTI000023865447&cidTexte=LEGITEXT000006071154&dateTexte=20161115)) à leurs demandes.
 
-### 1.5.8. Reconstitution
+### 1.4.8. Reconstitution
 
 Bien que n'étant régie par aucun texte, la reconstitution en matière d'enquête de police est admise ([Crim., 26 février 2003](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007071603&fastReqId=1304910400&fastPos=2)).
 
 Le plaignant peut demander à être assisté de son avocat ([art 61-3](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D8004E3AA0BBB9F17D46B30D3F9845C4D.tplgfr25s_3?idArticle=LEGIARTI000033462337&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte)).
 
-### 1.5.9. Réquisitions
+### 1.4.9. Réquisitions
 
-#### 1.5.9.1. Réquisitions en prélim
+#### 1.4.9.1. Réquisitions en prélim
 
 Sous peine de nullité pouvant être invoquée par toute partie intéressée et sans qu'un grief n'ait à être prouvé ([Crim., 18 juin 2019](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000038708902&fastReqId=1018416647&fastPos=1)), les réquisitions nécessitent l'autorisation du PR en prélim. Les forces de l'ordre n'ont pas besoin de réquisition pour consulter leurs fichiers en prélim ([Crim., 15 septembre 2009](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000021104729&fastReqId=1186182088&fastPos=1)).
 
@@ -1375,7 +1059,7 @@ La Cass n'exige aucun formalisme particulier à cette autorisation ([Crim., 27 n
 
 § 1.2, et [fiche 1](http://intranet.justice.gouv.fr/site/dacg/art_pix/Fiche1_Instructions_permanentes.pdf) de la [circ. du 16 novembre 2018](http://intranet.justice.gouv.fr/site/dacg/art_pix/Circulaire_2018-11-16_conjointe_DACG-DGGN-DGPN_simplification_procedure_penale_droit_constant.pdf)). Si la Cass les a exclues pour les réquisitions de l'[art 77-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779664) ([Crim., 17 décembr](http://intranet.cour-de-cassation.intranet.justice.fr/Rpvjcc/Jurinet/Arret.asp?ID_ARRET=1709261&CritereTerme)e [2019](http://intranet.cour-de-cassation.intranet.justice.fr/Rpvjcc/Jurinet/Arret.asp?ID_ARRET=1709261&CritereTerme)), la loi a prévu qu'elles demeurent possibles aux fins d'examen médicaux ou psychologiques. Sur les réquisitions permanentes en matière de PNIJ et leur formalisme en procédure, *cf* [Crim., 30 mars 2021](http://srv-cassation.cour-de-cassation.justice.fr/rpvjcc/Jurinet/Arret.asp?ID_ARRET=1731788&CritereTerme).
 
-#### 1.5.9.2. Réquisitions à sachant
+#### 1.4.9.2. Réquisitions à sachant
 
  (aussi appelé "*personne qualifiée*") pour les constatations ou examens techniques ou scientifiques ([art 60](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575046&dateTexte&categorieLien=cid) en flag, [art 77-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575137&dateTexte&categorieLien=cid) en prélim)
 
@@ -1387,7 +1071,7 @@ Entrent dans ce cadre, l'autopsie ([art 230-28 et s.](https://www.legifrance.gou
 
 Le refus de réponse à réquisition par un sachant constitue une C2 ([art R. 642-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419550/)).
 
-#### 1.5.9.3. Réquisitions aux fins de communication d'information.
+#### 1.4.9.3. Réquisitions aux fins de communication d'information.
 
  Elles sont fondéessur les articles :
 
@@ -1401,17 +1085,17 @@ La distinction entre les 2 types de réquisitions aux fins de communication d'in
 
 Le refus de réponse aux réquisitions est un délit spécifique ([art 60-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575048&dateTexte&categorieLien=cid), al 2, et [60-2](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DA4372810CE9CCED570670E7C15946DB2.tpdila23v_3?idArticle=LEGIARTI000020630682&cidTexte=LEGITEXT000006071154&dateTexte=20170604&categorieLien=id&oldAction), al 4). Sauf motif légitime, le secret professionnel ne peut pas être opposé. Par exception, les personnes protégées (magistrat, avocat, journaliste, médecin, notaire, huissier et personne soumise au secret défense) doivent donner leuraccord à remettre toute information.
 
-#### 1.5.9.4. Réquisitions à manouvrier
+#### 1.4.9.4. Réquisitions à manouvrier
 
  aussi appelées "*réquisitions de service*" (fondées sur une lecture extensive de l'[art R. 642-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006419550)) : a pour finalité l'obtention de tout concours matériel, voire manuel, indispensable aux constatations ou à d'autres investigations (serrurier pour ouverture de porte, transport de cadavre, terrassement, enlèvement de véhicule...). Pas besoin d'autorisation du parquet en prélim et pas de prestation de serment.
 
-#### 1.5.9.5. Réquisitions à décrypteur
+#### 1.4.9.5. Réquisitions à décrypteur
 
  ([art 230-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006576028&dateTexte&categorieLien=cid)) : réquisitions de toute personne qualifiée en vue d'obtenir la version lisible de données cryptées. Réquis autorisées par le PR que l'on soit en flag ou en prélim.
 
 Si l'enquête porte sur une infraction punie d'une peine ≥ 2 ans, le PR peut requérir le centre technique d'assistance (CTA) de la DGSI (*cf* [fiche DACG](http://intranet.justice.gouv.fr/site/dacg/art_pix/Annexe2-FT_mise_au_clair_donnees_techniques.pdf) et [dépêche du 7 juillet 2016](http://intranet.justice.gouv.fr/site/dacg/art_pix/depeche_07072016_mi2c_cta.pdf)).
 
-#### 1.5.9.6. Réquisitions des données de connexion, dites métadonnées
+#### 1.4.9.6. Réquisitions des données de connexion, dites métadonnées
 
 Les données de connexion (téléphonie, internet, *etc*.) peuvent faire l'objet de réquisitions. Il s'agit des données :
 
@@ -1441,7 +1125,7 @@ Par exception au droit commun, les [art 60-1-1](https://www.legifrance.gouv.fr/c
 
 jurisprudence de la Cour de cassation ([Crim., 8 juillet 2015](https://www.legifrance.gouv.fr/search/juri?tab_selection=juri&searchField=ALL&query=15-81731&searchType=ALL&typePagination=DEFAULT&sortValue=DATE_DESC&pageSize=10&page=1&tab_selection=juri&juri)) et de la CEDH ([CEDH, 8 mai 2018](https://hudoc.echr.coe.int/eng#%7B%22fulltext%22%3A%5B%22Ben%20Faiza%20c.%20France%22%5D%2C%22documentcollectionid2%22%3A%5B%22GRANDCHAMBER%22%2C%22CHAMBER%22%5D%2C%22itemid%22%3A%5B%22001-180657%22%5D%7D), cons. 73), la portée de cet arrêt en droit interne interroge. Le Conseil constit a censuré l'accès aux métadonnées par le PR, non sur le fondement de l'impartialité, mais sur celui du droit à la vie privée ([Cons. const., 3 décembre 2021](https://www.conseil-constitutionnel.fr/decision/2021/2021952QPC.htm)).
 
-### 1.5.10. Examen psychiatrique
+### 1.4.10. Examen psychiatrique
 
 *(*[*Focus DACG - octobre 2021*](http://intranet.justice.gouv.fr/site/dacg/art_pix/Fiche%20Focus%20expertises.pdf)*)*
 
@@ -1465,7 +1149,7 @@ En **GAV**, le psychiatre peut être le médecin requis pour se prononcer sur la
 
  Il faut restreindre nos questions dans les examens psy réalisés en GAV (*cf* [trames DACG](http://intranet.justice.gouv.fr/site/dacg/police-judiciaire-1462/medecine-legale-3705/medecine-legale-18994.html)).
 
-### 1.5.11. Téléphone portable
+### 1.4.11. Téléphone portable
 
 *(*[*art A 43-9 CPP*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D5823D0F94E4C873C3636DC5815042837.tplgfr24s_3?idArticle=LEGIARTI000033474180&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte)*)*
 
@@ -1480,7 +1164,7 @@ En **GAV**, le psychiatre peut être le médecin requis pour se prononcer sur la
 | *IMSI catcher*                               | DCO                                                        | Borne téléphonique mobile permettant d'identifier numéros IMSI et IMEI dans le périmètre et de faire des écoutes |
 | *Keylogger (dit espiologiciel)*              | DCO                                                        | Logiciel espion permettant de voir l'écran de la cible en temps réel |
 
-### 1.5.12. Géolocalisation
+### 1.4.12. Géolocalisation
 
  *(*[*art 230-32 et s.*](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idSectionTA=LEGISCTA000028793411&cidTexte=LEGITEXT000006071154&dateTexte=20190601)*) Cf* [fiche DACG - décembre 2021](http://intranet.justice.gouv.fr/site/dacg/art_pix/DACG%20FOCUS-%20G%E9olocalisation%20-%20version%2029.12.pdf)
 
@@ -1524,7 +1208,7 @@ Dans les 24h et par écrit, le PR doit prescrire la poursuite des opérations. D
 
 La géoloc pour retrouver la victime, la personne disparue ou l'objet volé n'est pas soumise aux règles des [art 230-32 et s](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D2B82245B7994418661F193AF29955FDE.tplgfr22s_1?idSectionTA=LEGISCTA000028793411&cidTexte=LEGITEXT000006071154&dateTexte=20180330). Elle est autorisée sur simple réquisition du PR aux détenteurs de documents ou de données informatiques.
 
-### 1.5.13. Captation vidéo sur un lieu public
+### 1.4.13. Captation vidéo sur un lieu public
 
 Sur le fondement des art [39-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032642007/) et [41](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311420), le parquet doit autoriser la captation / fixation / transmission / enregistrement d'images (pose de caméra) sur les lieux publics. Dans son autorisation, le parquet doit fixer la durée et le périmètre du dispositif ainsi autorisé ([Crim., 11 décembre 2018](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000037850931&fastReqId=318855216&fastPos=1) ; [Crim., 18 juin 2019](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000038708899&fastReqId=1021655645&fastPos=1) ; [Crim.,](https://www.legifrance.gouv.fr/juri/id/JURITEXT000042708831?tab_selection=juri&searchField=ALL&query=20-83.885&searchType=ALL&typePagination=DEFAULT&sortValue=DATE_DESC&pageSize=10&page=1&tab_selection=juri&juri) [8 décembre 2020](https://www.legifrance.gouv.fr/juri/id/JURITEXT000042708831?tab_selection=juri&searchField=ALL&query=20-83.885&searchType=ALL&typePagination=DEFAULT&sortValue=DATE_DESC&pageSize=10&page=1&tab_selection=juri&juri)). Il semble pouvoir renouveler son autorisation ([Crim., 18 mai 2021](http://intranet.cour-de-cassation.intranet.justice.fr/rpvjcc/Jurinet/Arret.asp?ID_ARRET=1735391&CritereTerme)).
 
@@ -1538,13 +1222,13 @@ En matière de crimorg uniquement, le JLD peut autoriser :
 
 - la captation d'images (vidéo ou photo) d'individus dans les lieux privés (on retombe sur le droit commun, si les images concernent un bien tel un véhicule présent dans un lieu privé visible depuis la voie publique : [Crim., 15 avril 2015](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000030495395&fastReqId=304283050&fastPos=1)).
 
-### 1.5.14. Captation d'image d'individus par un drone
+### 1.4.14. Captation d'image d'individus par un drone
 
 ([art 230-47 et s.](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000045069196/#LEGISCTA000045069196))
 
 La captation, fixation, transmission et enregistrement d'images de personnes se trouvant dans un lieu public grâce à un drone est possible pour les enquêtes portant sur une infraction punie d'une peine ≥ à 3 ans, en RCD, RCM et RPF. Le PR autorise, par tout moyen (donc écrit pas nécessaire), cette opération par décision d'une durée d'un mois, renouvelable une fois.
 
-### 1.5.15. Perquisition domiciliaire
+### 1.4.15. Perquisition domiciliaire
 
 *(*[*art 56* ](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D847D3AC3EB4A27582DD4F945B5A1F2A6.tplgfr31s_1?idArticle=LEGIARTI000042193522&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte)*et s. en flag ;* [*art 76* ](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575124&dateTexte&categorieLien=cid)*en prélim)*
 
@@ -1600,7 +1284,7 @@ Désormais, PN et GN n'ont plus besoin d'une telle autorisation ([art L. 272-1 C
 
 L'autorisation du PR n'est jamais nécessaire pour procéder à un **bris de porte** (casser la porte du domicile perquisitionné). Dès lors qu'elles peuvent faire une perquis (flag ou art 76), ce sont les forces de l'ordre qui avisent et, s'il faut casser la porte, elles la cassent ([Q2185](http://faq.dacg.intranet.justice.gouv.fr/index.php?act=2&&page=66&selection=2185&2185) FAQ DACG).
 
-### 1.5.16. Fouilles
+### 1.4.16. Fouilles
 
 *Cf* [fiche SDER - mars 2018](http://intranet.cour-de-cassation.intranet.justice.fr/rpvjcc/Reserve/SDE/BDD/CR/20180316_cr_fouilles_matiere_penale.pdf)
 
@@ -1620,7 +1304,7 @@ Les recherches entreprises dans un téléphone portable sont assimilées à une 
 
 Les perquisitions informatiques à distance des messageries sont possibles en matière criminelle même hors crimorg ([art 706-95-1 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DB6118AA5AC1600EFCDC1C0541603D169.tplgfr31s_3?idSectionTA=LEGISCTA000038311673&cidTexte=LEGITEXT000006071154&dateTexte=20190601)).
 
-#### 1.5.16.1. Fouille de véhicule
+#### 1.4.16.1. Fouille de véhicule
 
 Tout comme les autres fouilles mobilières, le régime des fouilles de véhicules, en enquête préliminaire comme en flagrance, est assimilé à celui des perquisitions sans que ne trouve à s'appliquer le respect des heures légales.
 
@@ -1646,7 +1330,7 @@ infractions en regardant par les vitres ([art](https://www.legifrance.gouv.fr/af
 
  - en dehors de tout cadre, les forces de l'ordre peuvent tjrs regarder l'intérieur d'un véhicule si le conducteur y consent et le leur ouvre. Si les FDO aperçoivent des éléments qui semblent constituer un délit tel que des stup, on bascule en flagrance et là elles pourront fouiller le véhicule.
 
-#### 1.5.16.2. Inspection et fouille de bagage
+#### 1.4.16.2. Inspection et fouille de bagage
 
 Comme les autres fouilles mobilières, les inspections et fouilles de bagages sont tjrs possibles en flag mais supposent l'accord du propriétaire ou l'autorisation du JLD en prélim ([Crim., 5 octobre 2011](https://www.legifrance.gouv.fr/juri/id/JURITEXT000024647435?page=1&pageSize=10&query=11-81.125&searchField=ALL&searchType=ALL&sortValue=DATE_DESC&tab_selection=juri&typePagination=DEFAULT)).
 
@@ -1662,7 +1346,7 @@ L'inspection et la fouille des bagages sont également autorisées dans les cas 
 
  - les agents de sécurité privée ([art L. 613-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000025503132&idArticle=LEGIARTI000025506272) du CSI), les agents de la RATP et de la SNCF ([art](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D4FB6BAC95081BEB3C73D9B30FD297096.tpdila17v_3?idArticle=LEGIARTI000032283948&cidTexte=LEGITEXT000023086525&dateTexte=20170521) [L. 2251-9](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D4FB6BAC95081BEB3C73D9B30FD297096.tpdila17v_3?idArticle=LEGIARTI000032283948&cidTexte=LEGITEXT000023086525&dateTexte=20170521) code des transports) peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur fouille.
 
-#### 1.5.16.3. Palpations / fouilles corporelles
+#### 1.4.16.3. Palpations / fouilles corporelles
 
 - **Palpations de sécurité des individus faisant l'objet d'un contrôle d'identité** ([art R. 434-16](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D99F2EFDB2E5B969B3FAF8F4AEF09AB5E.tpdila16v_1?idArticle=LEGIARTI000028285897&cidTexte=LEGITEXT000025503132&dateTexte=20170607) [CSI](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D99F2EFDB2E5B969B3FAF8F4AEF09AB5E.tpdila16v_1?idArticle=LEGIARTI000028285897&cidTexte=LEGITEXT000025503132&dateTexte=20170607))**, d'une interpellation** (art 203 du [RIPN](http://www.fpip-police.fr/wp-content/uploads/2012/03/RIPN.pdf)) **et des personnes placées en GAV / rétention** ([art 63-6](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023865457&cidTexte=LEGITEXT000006071154) ; [arrêté du 1](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024145675&categorieLien=id)[er](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024145675&categorieLien=id) [juin 2011](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024145675&categorieLien=id))
 
@@ -1678,7 +1362,7 @@ Les **fouilles de sécurité**, consistant à dévêtir partiellement la personn
 
 1. Ces dispositions permettent donc de réaliser une fouille sur la base de *raisons plausibles* alors que l'enquête de flagrance suppose, pour sa part, un ou plusieurs *indices apparents* d'un comportement délictueux
 
-##### 1.5.16.3.1. Fouille à corps
+##### 1.4.16.3.1. Fouille à corps
 
 La fouille à corps est un acte d'investigation encadré par la seule jurisprudence. Elle a une vraie fonction judiciaire et suppose donc l'ouverture d'une enquête. À l'exception de la règle horaire, elle est soumise au régime des perquisitions (Crim., 22 janvier 1953, *Isnard* ; [Crim., 29 mars 2017](https://www.legifrance.gouv.fr/juri/id/JURITEXT000034338005?page=1&pageSize=10&query=16-82763&searchField=ALL&searchType=ALL&sortValue=DATE_DESC&tab_selection=juri&typePagination=DEFAULT) ; [circ. du](http://circulaire.legifrance.gouv.fr/pdf/2011/07/cir_33393.pdf) [23 mai](http://circulaire.legifrance.gouv.fr/pdf/2011/07/cir_33393.pdf) [2011](http://circulaire.legifrance.gouv.fr/pdf/2011/07/cir_33393.pdf)) ce qui suppose donc, en préliminaire :
 
@@ -1688,7 +1372,7 @@ La fouille à corps est un acte d'investigation encadré par la seule jurisprude
 
 Elle doit être réalisée par un OPJ en flag et peut, à la différence des suivante, être réalisée hors GAV. Elle permet de vérifier le contenu des poches, voire des doublures, des vêtements du MEC.
 
-##### 1.5.16.3.2. Fouille intégrale en GAV / rétention 
+##### 1.4.16.3.2. Fouille intégrale en GAV / rétention 
 
 ([art 63-7](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DA51373283280FB90E109E8901BEB58F4.tpdila11v_3?idArticle=LEGIARTI000023865459&cidTexte=LEGITEXT000006071154&dateTexte=20170526&categorieLien=id&oldAction), al 1)
 
@@ -1696,17 +1380,17 @@ Tout en ayant une fonction sécuritaire évidente, elle a aussi une vraie foncti
 
 - doit s'avérer "*indispensable pour les nécessités de l'enquête*" ; - est subsidiaire, en ce sens qu'il ne peut être mis en œuvre que dans l'hypothèse où la fouille par tapotements ou par utilisation de moyens de détection électroniques apparaît insuffisante ; - relève de l'initiative d'un OPJ ; - doit être opéré par une personne du même sexe et dans un espace fermé. Elle suppose l'accord de la personne en prélim ou l'autorisation du JLD.
 
-##### 1.5.16.3.3. Investigations corporelles internes
+##### 1.4.16.3.3. Investigations corporelles internes
 
  (dites fouille *in corpore*) sont réalisées par un médecin requis à cet effet ([art 63-7](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DA51373283280FB90E109E8901BEB58F4.tpdila11v_3?idArticle=LEGIARTI000023865459&cidTexte=LEGITEXT000006071154&dateTexte=20170526&categorieLien=id&oldAction), al 2). Elles supposent l'accord de la personne en prélim ou l'autorisation du JLD. Elles ne peuvent être mises en œuvre qu'à l'encontre des gardés à vue mais, en cas d'urgence, la Chancellerie enivage qu'on puisse y recourir avant le placement effectif (§ 1.3.4 de la [circ. du 4 décembre 2000](file://localhost/C:/Users/AppData/Local/Temp/INTK0000282C.pdf)). Elles permettent des touchers rectaux, vaginaux, *etc*.
 
-#### 1.5.16.4. Fouilles douanières
+#### 1.4.16.4. Fouilles douanières
 
 Les douanes peuvent à tout moment et contre toutes personnes réaliser des fouilles de sécurité par palpation et des fouilles de vêtement mais les fouilles intégrales suivent le régime des perquisitions.
 
 Les douanes peuvent réaliser des "*visites des personnes*" ([art 60](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&idArticle=LEGIARTI000006615393) code des douanes), qui leur permettent, à tout moment et à l'encontre de tout individu, d'opérer des palpations et fouilles des personnes et de leurs vêtements, des investigations corporelles internes ([art 60](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041781182?init=true&page=1&query=code%2Bdes%2Bdouanes&searchField=ALL&tab_selection=all) [*bis* ](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041781182?init=true&page=1&query=code%2Bdes%2Bdouanes&searchField=ALL&tab_selection=all)code des douanes) et des fouilles intégrales des suspects placés en retenue douanière ([art 323-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023865578), al 1, code des douanes).
 
-### 1.5.17. Détermination de l'identité
+### 1.4.17. Détermination de l'identité
 
 *Cf* [*focu*](http://intranet.justice.gouv.fr/site/dacg/art_pix/Fiche%20Focus%20Fiablisation%20de%20l%27identit%E9.pdf)*s* [DACG sur la fiabilisation de l'identité lors de l'enquête](http://intranet.justice.gouv.fr/site/dacg/art_pix/Fiche%20Focus%20Fiablisation%20de%20l%27identit%E9.pdf) \- octobre 2021
 
@@ -1734,9 +1418,9 @@ Néanmoins, le PR peut aussi autoriser la signalisation forcée d'un individu su
 
 Les empreintes, *via* le FAED, peuvent être soumises aux autorités de certains pays (notamment du maghreb) afin de fiabiliser l'identité d'un individu signalisé (mention "*état civil fiabilisé par pays tiers*" sur le FAED).
 
-### 1.5.18. Investigations de police scientifique
+### 1.4.18. Investigations de police scientifique
 
-#### 1.5.18.1. Prélèvement externe des suspects
+#### 1.4.18.1. Prélèvement externe des suspects
 
 Dans le cadre de toute enquête de flagrance, l'OPJ peut procéder, ou, sous son contrôle, faire procéder, à des opérations de prélèvements externes aux fins de comparaison génétique. Sont visés les suspects et même, plus largement, toute personne susceptible de fournir des renseignements sur les faits en cause ([art 55-1](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DF2FC3D2B400EE19BCFCF4393E00F8F22.tplgfr32s_1?idArticle=LEGIARTI000006575023&cidTexte=LEGITEXT000006071154&dateTexte=20200512), al 1). Dans le cadre d'une enquête préliminaire, le parquet doit autoriser ces prélèvements ([art 76-2](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DF2FC3D2B400EE19BCFCF4393E00F8F22.tplgfr32s_1?idArticle=LEGIARTI000038311823&cidTexte=LEGITEXT000006071154&dateTexte=20200512), al 1). Le refus par un suspect de se soumettre aux prélèvements est constitutif d'un délit ([art 55-1](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DF2FC3D2B400EE19BCFCF4393E00F8F22.tplgfr32s_1?idArticle=LEGIARTI000006575023&cidTexte=LEGITEXT000006071154&dateTexte=20200512), al 3).
 
@@ -1746,7 +1430,7 @@ Lorsqu'il est impossible de réaliser un prélèvement biologique sur un suspect
 
 Plus largement, certains prélèvements peuvent également être opérés sur tous les suspects sur le fondement de l'[art 60](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D93E7987D6C95C104832E1EA7898BC7E4.tplgfr38s_1?idArticle=LEGIARTI000038311848&cidTexte=LEGITEXT000006071154&dateTexte=20200512) afin d'apporter la preuve de circonstances aggravantes (comme, par exemple, le fait que l'auteur de violences volontaires ait agi en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants : art [222-13](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037289685&cidTexte=LEGITEXT000006070719&dateTexte=20180806), 14°). En flagrance, ces prélèvements peuvent être réalisés sans l'assentiment du suspect ([Crim., 31 mars 2020](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000041810364&fastReqId=1889935833&fastPos=1)).
 
-#### 1.5.18.2. Prélèvement externe des personnes condamnées
+#### 1.4.18.2. Prélèvement externe des personnes condamnées
 
 Dès lors qu'un individu est déclaré coupable de l'une des infractions listées par l'[art 706-55](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DF2FC3D2B400EE19BCFCF4393E00F8F22.tplgfr32s_1?idArticle=LEGIARTI000032654379&cidTexte=LEGITEXT000006071154&dateTexte=20200512) (*cf* [liste - décembre 2021](https://wiki-dacg.intranet.justice.gouv.fr/wikidacg/images/8/88/FNAEG_liste_NATINF_16_d%C3%A9c_2021.pdf)), il fait l'objet d'un prélèvement corporel aux fins d'alimentation du FNAEG (fichier encadré par les [art 706-54 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DA1CCA95B11C09D66CDB01D5B366A9712.tplgfr38s_1?idSectionTA=LEGISCTA000006138132&cidTexte=LEGITEXT000006071154&dateTexte=20200512) et [R. 53-9 et s.](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006137412&cidTexte=LEGITEXT000006071154&dateTexte=20170601)). Le refus de se soumettre au prélèvement constitue une infraction ([art 706-56](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038313865/), II). L'empreinte génétique des simples suspects peut également être conservée.
 
@@ -1772,11 +1456,11 @@ En matière de **droit pénal routier**, les conducteurs peuvent être soumis à
 
  Le refus de se soumettre aux vérifications constitue un délit ([art L. 234-8](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DF2FC3D2B400EE19BCFCF4393E00F8F22.tplgfr32s_1?idArticle=LEGIARTI000039785524&cidTexte=LEGITEXT000006074228&dateTexte=20200512) et [L. 235-3](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DF2FC3D2B400EE19BCFCF4393E00F8F22.tplgfr32s_1?idArticle=LEGIARTI000039785486&cidTexte=LEGITEXT000006074228&dateTexte=20200512) code de la route).
 
-### 1.5.19. Provocation
+### 1.4.19. Provocation
 
 [Art 427](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D5ED8BE97DF4551B9AB1A7901E45CB080.tplgfr41s_3?idArticle=LEGIARTI000037108959&cidTexte=LEGITEXT000006071154&dateTexte=20200204) : les infractions sont des faits juridiques pouvant être librement prouvées (système de libertés des preuves et non des preuves légales). La loyauté de la preuve est l'un des corollaires du principe de liberté de la preuve (*cf* note SDER - [l'administration de la preuve en droit pénal](http://intranet.cour-de-cassation.intranet.justice.fr/rpvjcc/Reserve/SDE/BDD/CR/20200113_cr_administration_preuve.pdf) \- janvier 2020).
 
-#### 1.5.19.1. La provocation à l'infraction est prohibée
+#### 1.4.19.1. La provocation à l'infraction est prohibée
 
 Cette solution résulte d'une jurisprudence constante de la Cour de cassation établie dès 1996 ( [Crim.,](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007067233) [27 février 1996](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007067233)) qui juge déloyale la provocation à l'infraction ([Crim., 5 mai 1999](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007070119) ; [Crim., 7](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000017637398) [février 2007](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000017637398)).
 
@@ -1810,7 +1494,7 @@ vraies exceptions dans la mesure où l'incitation à l'infraction est exclue. Il
 
 La provocation à l'infraction entraîne la nullité des actes concernés ([Crim., 9 août 2006](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007074804&fastReqId=1556024887&fastPos=1)) et même l'exonération de responsabilité de l'auteur de l'infraction ([Crim., 5 mai 1999](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007070119&fastReqId=191496388&fastPos=1)).
 
-#### 1.5.19.2. La provocation à la preuve est admise
+#### 1.4.19.2. La provocation à la preuve est admise
 
 Le critère pris en compte par la jurisprudence est ici la passivité des forces de l'ordre ([Crim.,](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007057830) [2](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007057830) [mars](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007057830) [1971](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007057830) ; [Crim., 16 janvier 2008](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000018095968&fastReqId=2019880243&fastPos=1)). La provocation à la preuve est destinée à faire apparaître la preuve d'une infraction qui aurait, de toute façon, été commise sans l'intervention des enquêteurs.
 
@@ -1834,7 +1518,7 @@ Illustration :
 
 - *jugé qu'est seul proscrit "le stratagème qui, par un contournement ou un détournement d'une règle de procédure, a pour objet ou pour effet de vicier la recherche de la preuve en portant atteinte à l'un des droits essentiels ou à l'une des garanties fondamentales de la personne suspectée ou poursuivie".*
 
-### 1.5.20. Enquête sous pseudonyme 
+### 1.4.20. Enquête sous pseudonyme 
 
 dite *cyberpatrouille* ou *cyberinfiltration (*[*art 230-46* ](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idArticle=LEGIARTI000038311552&cidTexte=LEGITEXT000006071154&dateTexte=20190601&categorieLien=id&oldAction&nbResultRech)*;* [*fiche DACG - juin 2019*](http://intranet.justice.gouv.fr/site/dacg/art_pix/Enquetes_sous_pseudonyme.pdf)*)*
 
@@ -1844,13 +1528,13 @@ crimes et les délits punis d'une peine d'emprisonnement commis par la voie des 
 
 Cet acte d'enquête s'effectue sous le contrôle du PR, qui doit être régulièrement avisé de son déroulement sans avoir toutefois à l'autoriser. Le PR doit, en revanche, autoriser par tout moyen les acquisitions / transmissions de contenu, produit, substance, prélèvement ou service.
 
-### 1.5.21. Perquisitions informatiques à distance des messageries
+### 1.4.21. Perquisitions informatiques à distance des messageries
 
 *(*[*art 706-95-1* ](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D13FB3BE26A57870DF2C688F6060D0124.tplgfr23s_1?idArticle=LEGIARTI000038311668&cidTexte=LEGITEXT000006071154&dateTexte=20200530)*et s.)*
 
 En matière criminelle (ou en délictuel si crimorg), le parquet peut saisir le JLD pour que soit autorisé l'accès, à distance et à l'insu de la personne visée, aux correspondances stockées par la voie des communications électroniques accessibles au moyen d'un identifiant informatique.
 
-### 1.5.22. Alcool et investigations
+### 1.4.22. Alcool et investigations
 
 Contrôles routiers et modalités du contrôle : *cf* paragraphe sur la CEA dans la partie relative aux infractions routières hors permis de conduire.
 
@@ -1872,7 +1556,7 @@ C'est l'enquêteur qui décide du moment où la personne peut être entendue en 
 
 Pour l'**ivresse manifeste**, les OPJ doivent relever les critères de la fiche A (pupille, haleine...). Ivresse manifeste notamment retenue lorsque le MEC ne peut / veut pas souffler à l'éthylomètre.
 
-### 1.5.23. Investigations tenant à la personnalité
+### 1.4.23. Investigations tenant à la personnalité
 
 - Une évaluation personnalisée des besoins et des mesures de protection des **victimes** d'infractions est réalisé :
 
@@ -1892,7 +1576,7 @@ L'évaluation est donc différente de l'accompagnement de la victime ([art 41](h
 
 L'ESR est réalisée par une association habilitée, le SPIP ou la PJJ et vise notamment à s'assurer de la faisabilité d'un aménagement *ab initio*.
 
-### 1.5.24. Inscription au fichier des personnes recherchées (FPR)
+### 1.4.24. Inscription au fichier des personnes recherchées (FPR)
 
 On fait inscrire au FPR ([art 230-19 CPP](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193527?tab_selection=all&searchField=ALL&query=article%2B230-19%2Bcode%2Bde%2Bproc%C3%A9dure%2Bp%C3%A9nale&page=1&init=true) ; [décret du 28 mai 2010](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022276189&categorieLien=id) ; [circ. du 5 août 2016](http://intranet.justice.gouv.fr/site/dacg/art_pix/depeche_05082016-DACG_DSJ_close.pdf)) :
 
@@ -1904,13 +1588,13 @@ On fait inscrire au FPR ([art 230-19 CPP](https://www.legifrance.gouv.fr/codes/a
 
 Toujours faire inscrire au FPR le numéro de la procédure concernée ainsi que les coordonnées de l'unité saisie de l'enquête.
 
-### 1.5.25. Rétribution des informateurs
+### 1.4.25. Rétribution des informateurs
 
 L'[art 15-1](https://www.legifrance.gouv.fr/affichTexteArticle.do%3Bjsessionid%3D48920CE4672E37F5516F52DEA3946FF0.tplgfr31s_1?idArticle=LEGIARTI000032654945&cidTexte=LEGITEXT000005617582&dateTexte=20200622) de la loi du 21 janvier 1995 et l'[arrêté du 20 janvier 2006](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000458015) prévoient un régime de rétribution des indicateurs qui ont "*fourni des renseignements ayant amené directement soit la découverte de crimes ou de délits, soit l'identification des auteurs de crimes ou de délits.*"
 
 C'est une rétribution discrétionnaire.
 
-### 1.5.26. Actes nécessitant la rédaction d'un écrit par PR
+### 1.4.26. Actes nécessitant la rédaction d'un écrit par PR
 
 - Toutes les réquisitions peuvent être rédigées par les OPJ mais PR peut les faire et doit se concentrer sur les réquisitions techniques ([art 60-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006575048&dateTexte&categorieLien=cid)) ;
 
@@ -1946,15 +1630,15 @@ C'est une rétribution discrétionnaire.
 
 - OPP ([art 375-5 code civil](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000032655173)).
 
-## 1.6. Médecine, science et enquêtes
+## 1.5. Médecine, science et enquêtes
 
-### 1.6.1. Médecine légale
+### 1.5.1. Médecine légale
 
 *Cf* [Référentiel des prestations médico-légales](http://intranet.justice.gouv.fr/site/dacg/art_pix/referentiel_prestation_medecine_legale_vdef.pdf) \- DACG - 2012
 
 feu...) ;
 
-#### 1.6.1.1. Légiste
+#### 1.5.1.1. Légiste
 
 - Ne doit jamais venir sur les suicides ;
 
@@ -1970,7 +1654,7 @@ recommandée pour accident du travail, de transport ou domestique. En matière d
 
 On parle de **levée de corps** si le légiste se rend sur le lieu de découverte du cadavre. On parle d'**examen externe** lorsque le légiste concentre son examen sur les seuls aspects extérieurs du cadavre.
 
-#### 1.6.1.2. Obstacle médico-légal 
+#### 1.5.1.2. Obstacle médico-légal 
 
 (OML) prévu par l'[art 81 code civil](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006421264&cidTexte=LEGITEXT000006070721). Il incombe au seul parquet de le lever.
 
@@ -1988,7 +1672,7 @@ Le PR va donc (*cf* [police funéraire](http://intranet.justice.gouv.fr/site/dac
 
 - autoriser la remise à la famille des biens qu'avait le défunt sur lui.
 
-#### 1.6.1.3. Autopsie judiciaire
+#### 1.5.1.3. Autopsie judiciaire
 
  ([art 230-28 et s.](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000024029055&cidTexte=LEGITEXT000006071154&dateTexte=20170531)) : elle est décidée en application des art 60, 74 ou 77-1. On peut autoriser la réalisation d'autopsie hors la présence d'OPJ (en pratique, ils ne sont présents qu'en matière criminelle).
 
@@ -2006,7 +1690,7 @@ Autopsie requise lorsque l'on ne peut pas exclure l'intervention d'un tiers au d
 
 L'examen externe suffit dans le cadre des décès pour lesquels on privilégie une cause naturelle, accidentelle ou volontaire.
 
-#### 1.6.1.4. Examens divers
+#### 1.5.1.4. Examens divers
 
 | *Toxicologiques* | Systématique en cas de présomption d'overdose, en cas découverte de médicaments à proximité du corps ou d'indices d'intoxication, pour les noyés (avec dosage de strontium et prélèvements de l'eau dans laquelle se trouve le corps) ; peut être envisagé en complément d'un examen externe |
 | ---------------- | ------------------------------------------------------------ |
@@ -2043,7 +1727,7 @@ L'examen externe suffit dans le cadre des décès pour lesquels on privilégie u
 | *Tache verte abdominale*                     | Tâche apparaissant 36 à 48 heures après le décès au niveau de la fosse iliaque et s'étendant ensuite à l'abdomen. Symbole du début de la putréfaction |
 | *Zone de tatouage*                           | Incrustation de grains de poudre partiellement brûlés aux pourtours de l'orifice d'entrée du projectile d'une arme à feu |
 
-### 1.6.2. Suicide
+### 1.5.2. Suicide
 
 *Cf* [guide](http://intranet.justice.gouv.fr/site/dacg/art_pix/Gestion_scene%20_deces_presentes_comme_suicide%20_version%20d%E9finitive_.pdf)
 
@@ -2063,7 +1747,7 @@ En l'absence d'OML, les forces de l'ordre font un PV de constatation de la déco
 
 Avec un *suicide par arme à feu*, toujours demander des tamponnoirs avec analyse en urgence.
 
-### 1.6.3. Cadavre non identifié
+### 1.5.3. Cadavre non identifié
 
 Si la cause du décès n'est pas le fait d'une infraction mais que l'identité du défunt est inconnue, on peut recourir à l'enquête extrajudiciaire en identification ([art 87 code civil](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006421325&dateTexte&categorieLien=cid)). C'est une enquête administrative menée par le parquet.
 
@@ -2079,7 +1763,7 @@ Actes à requérir pour identifier un cadavre :
 
 - faire récupérer chez lui des brosses à dents et à cheveux pour comparaison ADN avec le cadavre.
 
-### 1.6.4. Scène de crime
+### 1.5.4. Scène de crime
 
 *Cf* [*mément*](http://intranet.justice.gouv.fr/site/dacg/art_pix/La_gestion_de_la_scene_de_crime.pdf)*o* [DACG - juillet 2009](http://intranet.justice.gouv.fr/site/dacg/art_pix/La_gestion_de_la_scene_de_crime.pdf)
 
@@ -2105,7 +1789,7 @@ L'arrivée sur les lieux dessaisit immédiatement les OPJ ([art 68](https://www.
 
 Demander la désignation d'un *coordinateur de scènes de crime* (COCRIM), qui organise le traitement des scènes complexes.
 
-### 1.6.5. Police technique et scientifique
+### 1.5.5. Police technique et scientifique
 
 Coordonnées et prestations des laboratoires publics et privés : *cf* [lien](http://intranet.justice.gouv.fr/site/dacg/police-judiciaire-1462/police-technique-et-scientifique-3706/police-technique-et-scientifique-18996.html). IRCGN (Pontoise, 95) : [prestations](http://intranet.justice.gouv.fr/site/dacg/art_pix/IRCGN%20-%20Contrat%20capacitaire%202021%20tarif%E9.pdf).
 
@@ -2118,7 +1802,7 @@ SNPS (Ecully, 69) : [organisation](http://intranet.justice.gouv.fr/site/dacg/art
 | Lille     | 03 20 12 89 89 *(astreinte : 06 73 37 26 54)* | [snps-lps59@interieur.gouv.fr](mailto:snps-lps59@interieur.gouv.fr) |
 | Toulouse  | 05 61 12 79 00 *(astreinte : 06 86 16 42 66)* | [snps-lps31@interieur.gouv.fr](mailto:snps-lps31@interieur.gouv.fr) |
 
-### 1.6.6. Génétique
+### 1.5.6. Génétique
 
 Voir *supra* la partie précédente relative aux investigations de police scientifique.
 
@@ -2127,11 +1811,11 @@ FNAEG (*cf* [*focu*](http://intranet.justice.gouv.fr/site/dacg/art_pix/Fiche%20f
 *Cf focus* DACG [Empreintes génétiques : Notions de base](http://intranet.justice.gouv.fr/site/dacg/art_pix/DACG-Focus_Empreintes_genetiques_notions_de_base.pdf) \- juillet 2018.
 
 
-## 1.7. Saisies et confiscations
+## 1.6. Saisies et confiscations
 
 *(cf* [*guide DACG - janvier 2021* ](http://intranet.justice.gouv.fr/site/dacg/droit-economique-et-financier-1458/guide-des-saisies-et-confiscations-131274.html)*et le site de l'*[*AGRASC* ](http://intranet.justice.gouv.fr/site/agrasc/)*comprenant de nombreuses* [*trames*](http://intranet.justice.gouv.fr/site/agrasc/les-outils-16488/abecedaire-16580/)*)*
 
-### 1.7.1. Confiscation
+### 1.6.1. Confiscation
 
 La confiscation ([art 131-21](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028312062)) est une peine complémentaire qui est soit :
 
@@ -2142,16 +1826,16 @@ La confiscation ([art 131-21](https://www.legifrance.gouv.fr/codes/article_lc/LE
 - obligatoire lorsqu'elle porte sur des objets qualifiés de dangereux ou dont la détention est illicite tels que les armes ou stupéfiants ([art 131-21](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028312062), al 7).
 
 
-#### 1.7.1.1. Différents fondements de la confiscation 
+#### 1.6.1.1. Différents fondements de la confiscation 
 (on peut en combiner plusieurs)
 
-##### 1.7.1.1.1. Instrument de l'infraction 
+##### 1.6.1.1.1. Instrument de l'infraction 
 
 [Art 131-21](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006417273&dateTexte&categorieLien=cid), al 2 : _La confiscation porte sur tous les biens meubles ou immeubles, quelle qu'en soit la nature, divis ou indivis, ayant servi à commettre l'infraction ou qui étaient destinés à la commettre, et dont le condamné est propriétaire ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition._
 
 Vise les biens qui sont l'**instrument** de l'infraction (ceux ayant servi à commettre l'infraction ou destinés à la commettre) dont le MEC est propriétaire ou dont il a la libre disposition (sous réserve que le propriétaire soit de mauvaise foi). La Cass a une lecture souple de la mauvaise foi : le tiers devant simplement se douter d'un achat illicite.
 
-##### 1.7.1.1.2. Objet ou produit 
+##### 1.6.1.1.2. Objet ou produit 
 
 [Art 131-21](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006417273&dateTexte&categorieLien=cid), al 3 : _Elle porte également sur tous les biens qui sont l'objet ou le produit direct ou indirect de l'infraction, à l'exception des biens susceptibles de restitution à la victime. Si le produit de l'infraction a été mêlé à des fonds d'origine licite pour l'acquisition d'un ou plusieurs biens, la confiscation peut ne porter sur ces biens qu'à concurrence de la valeur estimée de ce produit._
 
@@ -2165,7 +1849,7 @@ Avec plusieurs auteurs ayant participé à une infraction, la Cass dit qu'il suf
 
 Le produit d'une fraude fiscale ou du travail dissimulé est **l'économie d'impôt réalisée**. 
 
-##### 1.7.1.1.3. Biens d'origine injustifiée
+##### 1.6.1.1.3. Biens d'origine injustifiée
 
 [Art 131-21](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006417273&dateTexte&categorieLien=cid), al 5 : _S'il s'agit d'un crime ou d'un délit puni d'au moins 5 ans d'emprisonnement et ayant procuré un profit direct ou indirect, la confiscation porte également sur les biens meubles ou immeubles, quelle qu'en soit la nature, divis ou indivis, appartenant au condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition, lorsque ni le condamné, ni le propriétaire, mis en mesure de s'expliquer sur les biens dont la confiscation est envisagée, n'ont pu en justifier l'origine._
 
@@ -2175,19 +1859,19 @@ Le lien avec l'infraction et la date d'acquisition sont indifférents ([Crim., 2
 
 Sont aussi visés les biens dont l'origine n'est que partiellement licite.
 
-##### 1.7.1.1.4. 4. **totalité ou une partie du patrimoine**
+##### 1.6.1.1.4. 4. **totalité ou une partie du patrimoine**
 
 [Art 131-21](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006417273&dateTexte&categorieLien=cid), al 6 : _Lorsque la loi qui réprime le crime ou le délit le prévoit, la confiscation peut aussi porter sur tout ou partie des biens appartenant au condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis._
 
 Vise la **totalité ou une partie du patrimoine** pour une quinzaine d'infractions seulement : CCH (art 213-1, 4°), terrorisme (art 422-6), trafic de stupéfiants (art 222-49, al 2), proxénétisme, blanchiment...
 
-##### 1.7.1.1.5. dangereux ou nuisibles
+##### 1.6.1.1.5. dangereux ou nuisibles
 
 [Art 131-21](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006417273&dateTexte&categorieLien=cid), al 7 : _La confiscation est obligatoire pour les objets qualifiés de dangereux ou nuisibles par la loi ou le règlement, ou dont la détention est illicite, que ces biens soient ou non la propriété du condamné._
 
 Objets **dangereux ou nuisibles** : essentiellement stup et armes
 
-##### 1.7.1.1.6.  **confiscation en valeur**
+##### 1.6.1.1.6.  **confiscation en valeur**
 
 [Art 131-21](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006417273&dateTexte&categorieLien=cid), al 9 : _La confiscation peut être ordonnée en valeur. La confiscation en valeur peut être exécutée sur tous biens, quelle qu'en soit la nature, appartenant au condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition. Pour le recouvrement de la somme représentative de la valeur de la chose confisquée, les dispositions relatives à la contrainte judiciaire sont applicables. La chose confisquée est, sauf disposition particulière prévoyant sa destruction ou son attribution, dévolue à l'État, mais elle demeure grevée, à concurrence de sa valeur, des droits réels licitement constitués au profit de tiers._
 
@@ -2209,7 +1893,7 @@ Pour prouver la libre disposition, on s'attache à voir qui est le propriétaire
 
 
 
-### 1.7.2. Saisie
+### 1.6.2. Saisie
 
 On peut saisir l'AGRASC de toute question : [assistance@agrasc.gouv.fr](mailto:saisine@agrasc.gouv.fr)
 
@@ -2288,9 +1972,9 @@ Une fois que l'on a vérifié que l'on peut saisir, que l'on a ensuite arrêté 
 
 Il est possible d'affecter les biens confiscables à l'AGRASC pour vente: https://wiki-dacg.intranet.justice.gouv.fr/page/Affectation_des_biens_meubles_saisis_aux_services_d%27enqu%C3%AAte
 
-### 1.7.3. Divers
+### 1.6.3. Divers
 
-#### 1.7.3.1. Restitution / destruction 
+#### 1.6.3.1. Restitution / destruction 
 
 [art 41-4](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DFCB9E26F048A2DAC4252568C33B94310.tplgfr31s_1?idArticle=LEGIARTI000038312204&cidTexte=LEGITEXT000006071154&dateTexte=20191104&categorieLien=id&oldAction) et [41-5](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D94E3EB2E49D462EEE7A0DCFC62322E6C.tplgfr29s_3?idArticle=LEGIARTI000038846032&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte=20200101) CPP (*cf* [circ. du 31 mars 2015](http://www.textes.justice.gouv.fr/art_pix/JUSD1508367C.pdf))
 
@@ -2313,7 +1997,7 @@ Le propriétaire d'un bien a 6 mois, à compter du moment où il a eu connaissan
 	- qui sont susceptibles de confiscation ;
 	- lorsque le maintien de la saisie serait de nature à diminuer la valeur du bien. L'[art 41-5](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006574976&dateTexte&categorieLien=cid), al 1, vise le cas des biens dont le proprio n'est pas identifié.
 
-#### 1.7.3.2. Affectation gratuite de biens saisis aux services d'enquête
+#### 1.6.3.2. Affectation gratuite de biens saisis aux services d'enquête
 
 - avant jugement ([circ. du 11 septembre 2013](http://intranet.justice.gouv.fr/site/dacg/art_pix/circulaire_inter_11092013_close.pdf)) pour les seuls véhicules (terrestres, maritimes et aériens) appartenant à celui qui encourt la confiscation ([art 41-5](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006574976&dateTexte&categorieLien=cid), al 3). Le service d'enquête doit formuler une demande à son administration centrale ainsi qu'au parquet qui décidera *in fine* au vu du risque de dépréciation et de l'absence d'utilité du bien au regard de la manifestation de la vérité (décision motivée du parquet susceptible de recours : [art 41-5](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006574976&dateTexte&categorieLien=cid), al 5). Cette décision est ensuite transmise à France Domaine ;
 
@@ -2327,9 +2011,9 @@ L'[**AGRASC**](http://intranet.justice.gouv.fr/site/agrasc/) est l'EPA chargé d
 
 En pratique, que ce soit alternative réparation / punition ou OP, on demande aux enquêteurs de confisquer et de détruire eux-mêmes.
 
-#### 1.7.3.3. Cas particulier des véhicules
+#### 1.6.3.3. Cas particulier des véhicules
 
-##### 1.7.3.3.1. Différents fondements d'immobilisation / saisie de véhicule
+##### 1.6.3.3.1. Différents fondements d'immobilisation / saisie de véhicule
 
 -   immobilisation administrative pour véhicule dangereux ([art L. 325-1 code de la route](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D843FF8030E6AED32F93E142110AE9788.tpdila21v_1?idArticle=LEGIARTI000033813311&cidTexte=LEGITEXT000006074228&categorieLien=id&dateTexte)) ;
 
@@ -2339,7 +2023,7 @@ En pratique, que ce soit alternative réparation / punition ou OP, on demande au
 
 - saisie du véhicule susceptible d'être confisqué (selon les cas, saisie sur le fondement des art du code de la route ou du CPP)
 
-##### 1.7.3.3.2. Les 3 fondements de confiscation de véhicule :
+##### 1.6.3.3.2. Les 3 fondements de confiscation de véhicule :
 
 -   Au titre des peines privatives ou restrictives de droit, comme ==peine alternative à l'emprisonnement==, on a la confiscation du véhicule (cadre spécifique : [art 131-6](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DB8A693DD42DEC47AC3EED265D228B97F.tplgfr22s_1?idArticle=LEGIARTI000042193563&cidTexte=LEGITEXT000006070719&categorieLien=id&dateTexte), 4°), qui ne permet de saisir que le véhicule dont le MEC est propriétaire.
 
@@ -2374,9 +2058,9 @@ Sauf motivation spéciale, la peine de confiscation est *obligatoire* dans les c
 
 En revanche, la confiscation n'est plus obligatoire pour la conduite sans permis ([art L. 221-2 code](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D71AAB8DC238F6E18AEB819DB298F6718.tpdila16v_1?idArticle=LEGIARTI000033460280&cidTexte=LEGITEXT000006074228&dateTexte=20170526&categorieLien=id&oldAction) [de](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D71AAB8DC238F6E18AEB819DB298F6718.tpdila16v_1?idArticle=LEGIARTI000033460280&cidTexte=LEGITEXT000006074228&dateTexte=20170526&categorieLien=id&oldAction) [la route](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D71AAB8DC238F6E18AEB819DB298F6718.tpdila16v_1?idArticle=LEGIARTI000033460280&cidTexte=LEGITEXT000006074228&dateTexte=20170526&categorieLien=id&oldAction)).
 
-## 1.8. Fichiers, logiciels & plateformes
+## 1.7. Fichiers, logiciels & plateformes
 
-### 1.8.1. Judiciaires
+### 1.7.1. Judiciaires
 
 | [**Cassiopée**](https://cassiopee.intranet.justice.gouv.fr/cassiopee/aut/saisirPageConnexion.do%3Bjsessionid%3D3133BECBEC8AB12AC1C229C76B9D45F4?reqCode=init) ([*art R. 15-33-66-4 et s.*](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D15B0B6563C1D0120776EC9E2250173D3.tpdila21v_2?idSectionTA=LEGISCTA000022376999&cidTexte=LEGITEXT000006071154&dateTexte=20131119))                                                                                                                                                                                                                                                        | Permet d'avoir une vision de l'ensemble des affaires passées et en cours concernant un individu, sous réserve qu'elles aient été enregistrées par le greffe. Sont mentionnées les alternatives, les classements, les contrôles judiciaires, les informations judiciaires, *etc.*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2403,7 +2087,7 @@ En revanche, la confiscation n'est plus obligatoire pour la conduite sans permis
 | **NOE**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Logiciel permettant d'importer les dossiers présents sur NPP et de les travailler (annotation, surlignage, *etc*.).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                        |
 | [**LOLFI**](http://lolfi.dsj.intranet.justice.gouv.fr/lolf/lolf_mdp.asp)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Logiciel de gestion RH auquel ont accès les seuls services RH.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                        |
 
-### 1.8.2. Policiers
+### 1.7.2. Policiers
 
 | [**TAJ**](https://nantes.sso.intranet.justice.gouv.fr/) ([*art 230-6 et s.*](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023709609&cidTexte=LEGITEXT000006071154&dateTexte=20170531)*,* [*R. 40-23 et s.* ](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025818428&cidTexte=LEGITEXT000006071154)*et* [*circ. du*](http://intranet.justice.gouv.fr/site/dacg/art_pix/circulaire_18082014_close.pdf) [*18 août 2014*](http://intranet.justice.gouv.fr/site/dacg/art_pix/circulaire_18082014_close.pdf)) | *Cf* [*focu*](http://intranet.justice.gouv.fr/site/dacg/art_pix/DACG-FOCUS_TAJ%20VF.pdf)*s* [DACG - septembre 2019](http://intranet.justice.gouv.fr/site/dacg/art_pix/DACG-FOCUS_TAJ%20VF.pdf). Recense les personnes connues comme auteur ou victime d'infraction sans que ne soient mentionnées les suites données aux procédures (le TAJ a remplacé les anciens fichiers *JUDEX* et *STIC*). Ce fichier permet notamment de connaître l'entourage d'un délinquant ou de trouver une adresse. Le TAJ a une fonctionnalité biométrique qui relevait auparavant de l'application CANONGE (photos, description, signes distinctifs...). Sur l'effacement des données, voir la [circ. du 22 juin 2018](http://intranet.justice.gouv.fr/site/dacg/art_pix/Circulaire_2018-06-22_dispositions_modifiees_fichiers_antecedents_judiciaires.pdf). |      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
@@ -2447,7 +2131,7 @@ En revanche, la confiscation n'est plus obligatoire pour la conduite sans permis
 | **PERCEVAL** ([*arrêté du 23 mai 2018*](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000036940251&categorieLien=id)) | Plateforme de signalement des fraudes en ligne à la carte bancaire. |
 | **THÉSÉE** ([*arrêté du 26 juin 2020*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042056637/)) | Plateforme qui permettra aux justiciables de porter plainte en ligne pour des infractions commises sur internet (escroquerie, chantage et extorsion connexe à un vol de données). |
 
-### 1.8.3. Administratifs
+### 1.7.3. Administratifs
 
 Ces fichiers sont consultables par réquisitions à l'administration, à l'autorité
 ou à l'entreprise concernée.
@@ -2468,9 +2152,9 @@ ou à l'entreprise concernée.
 
 
 
-## 1.9. Procédures dérogatoires
+## 1.8. Procédures dérogatoires
 
-### 1.9.1. Délinquance et criminalité organisées (DCO)
+### 1.8.1. Délinquance et criminalité organisées (DCO)
 
 *Cf* [*mément*](http://intranet.justice.gouv.fr/dacg/cabinet/docs/2017/Memento_Rapport_Lutte_Criminalite_Organisee_171004_V11.pdf)*o* [DACG - juin 2017](http://intranet.justice.gouv.fr/dacg/cabinet/docs/2017/Memento_Rapport_Lutte_Criminalite_Organisee_171004_V11.pdf)
 
@@ -2480,7 +2164,7 @@ Les trois régimes offrent des techniques d'enquête dérogatoires (*cf* [tablea
 
 Constitue un détournement de procédure le fait de se placer faussement et à dessein dans le champ d'application de l'un des 3 régimes aux fins de bénéficier des actes d'enquête dérogatoires. Tel n'est pas le cas le fait de viser un régime pour finalement aboutir à une mise en examen pour des faits distincts ([Crim., 18 juin](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000038708907&fastReqId=958434318&fastPos=1) [2019](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000038708907&fastReqId=958434318&fastPos=1)).
 
-#### 1.9.1.1. Le régime complet 
+#### 1.8.1.1. Le régime complet 
 
 *(*[*art 706-73*](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&idArticle=LEGIARTI000006577776&dateTexte&categorieLien=cid))
 
@@ -2499,7 +2183,7 @@ Les actes d'enquête dérogatoire (pour partie créés en 2016, *cf* [circ. du 2
 | Sonorisation et captation d'images ([art 706-95-11 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D8CFAC0F75DFC3E84FBFC72D764732D5E.tplgfr21s_1?idSectionTA=LEGISCTA000038269615&cidTexte=LEGITEXT000006071154&dateTexte=20190722) et [art 706-96 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D28B7CBBA9598DEF5BCE1090EC639E994.tplgfr25s_2?idSectionTA=LEGISCTA000038270479&cidTexte=LEGITEXT000006071154&dateTexte=20191031))                    | Pose d'un micro dans un lieu public ou privé et pose d'une caméra dans un lieu privé (*cf* [fiche DACG - juin 2019](http://intranet.justice.gouv.fr/site/dacg/art_pix/Sonorisation.pdf)). *A contrario*, on n'a donc pas besoin d'accord du JLD pour une pose de caméra ou prise de photo dans un lieu public (il faut toutefois que le parquet l'autorise par un soit-transmis fixant la durée et le périmètre du dispositif : [Crim.,](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000037850931&fastReqId=318855216&fastPos=1) [11 décembre 2018](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000037850931&fastReqId=318855216&fastPos=1)).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Captation de données informatiques dit *Keylogger* ([art 706-95-11 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D8CFAC0F75DFC3E84FBFC72D764732D5E.tplgfr21s_1?idSectionTA=LEGISCTA000038269615&cidTexte=LEGITEXT000006071154&dateTexte=20190722) et [art 706-102-1 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DA735E0FA9D205BCEB8AAEA434FD2AF71.tplgfr21s_1?idSectionTA=LEGISCTA000038270761&cidTexte=LEGITEXT000006071154&dateTexte=20190722)) | Permet aux enquêteurs d'accéder aux données contenues dans un terminal numérique et d'en intercepter les flux (logiciel espion permettant de voir l'écran du MEC en temps réel). C'est un cheval de Troie. *Cf* [fiche DACG - juillet 2019](http://intranet.justice.gouv.fr/site/dacg/art_pix/Fiche_focus_Captation_donnees.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-#### 1.9.1.2. Le régime quasi complet
+#### 1.8.1.2. Le régime quasi complet
 
  ([*art 706-73-1*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DEBC1338066A29D67FAD8515A6B39698A.tplgfr22s_3?idArticle=LEGIARTI000039183234&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte))
 
@@ -2507,7 +2191,7 @@ Toute une série d'infractions est visée et notamment l'escroquerie en BO. Il s
 
 Ce régime permet les mêmes actes d'enquête dérogatoires que ceux offerts par le régime complet à la seule exception de la GAV de 96 heures qui est ici exclue.
 
-#### 1.9.1.3. Le régime partiel
+#### 1.8.1.3. Le régime partiel
 
  ([*art* ](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DDC9F35066F0BBD1F699A49FE4EE447CC.tpdila07v_1?idArticle=LEGIARTI000031052232&cidTexte=LEGITEXT000006071154&dateTexte=20170407&categorieLien=id&oldAction&nbResultRech)[*706*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DDC9F35066F0BBD1F699A49FE4EE447CC.tpdila07v_1?idArticle=LEGIARTI000031052232&cidTexte=LEGITEXT000006071154&dateTexte=20170407&categorieLien=id&oldAction&nbResultRech)[*-7*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DDC9F35066F0BBD1F699A49FE4EE447CC.tpdila07v_1?idArticle=LEGIARTI000031052232&cidTexte=LEGITEXT000006071154&dateTexte=20170407&categorieLien=id&oldAction&nbResultRech)[*4*](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DDC9F35066F0BBD1F699A49FE4EE447CC.tpdila07v_1?idArticle=LEGIARTI000031052232&cidTexte=LEGITEXT000006071154&dateTexte=20170407&categorieLien=id&oldAction&nbResultRech))
 
@@ -2515,7 +2199,7 @@ S'applique aux crimes et délits commis en BO non visés par 706-73 et 706-73-1 
 
 Ce régime ne permet que certains actes d'enquête dérogatoires que sont la surveillance et les saisies conservatoires.
 
-### 1.9.2. Autres régimes dérogatoires
+### 1.8.2. Autres régimes dérogatoires
 
 Ces infractions bénéficient déjà, pour la plupart, des actes d'investigation offert par le régime dérogatoire des art [706-73 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DA747C0D59100140B1043F8838BC25B2F.tplgfr41s_2?idSectionTA=LEGISCTA000038311675&cidTexte=LEGITEXT000006071154&dateTexte=20201001)
 
@@ -2565,7 +2249,7 @@ Ces infractions bénéficient déjà, pour la plupart, des actes d'investigation
 
 - crimes sériels ou non élucidés ([art 706-106-1 et s.](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000044550758/2022-03-01/#LEGISCTA000044550771)).
 
-### 1.9.3. Terrorisme
+### 1.8.3. Terrorisme
 
 Le parquet national antiterroriste, dit PNAT ([circ. du 18 décembre 2015](http://intranet.justice.gouv.fr/site/dacg/art_pix/circulaire_18122015_close.pdf) ; [circ. du 1](http://intranet.justice.gouv.fr/site/dacg/art_pix/Circulaire_2019-07-01_Garde-des-sceaux_Presentation-du-parquet-national-antiterroriste.pdf)[er](http://intranet.justice.gouv.fr/site/dacg/art_pix/Circulaire_2019-07-01_Garde-des-sceaux_Presentation-du-parquet-national-antiterroriste.pdf) [juillet 2019](http://intranet.justice.gouv.fr/site/dacg/art_pix/Circulaire_2019-07-01_Garde-des-sceaux_Presentation-du-parquet-national-antiterroriste.pdf) et [circ. du 17 février 2020](http://intranet.justice.gouv.fr/site/dacg/art_pix/Circulaire_2020-02-17_politique_penale_lutte_terrorisme.pdf)), est compétent sur tout le territoire pour toutes les infractions prévues par l'[art 706-](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idArticle=LEGIARTI000030939811&cidTexte=LEGITEXT000006071154&dateTexte=20200101&categorieLien=id&oldAction)[16](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DD6E55E6052B0A6A81FE1A70CD834775F.tplgfr25s_3?idArticle=LEGIARTI000030939811&cidTexte=LEGITEXT000006071154&dateTexte=20200101&categorieLien=id&oldAction) \+ infractions connexes. Il peut adresser des délégations judiciaires à faire exécuter par les PR territorialement compétents ([art 706-17-1](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3DFE2B01A03737AB5B7FD11D53F46C4E9D.tplgfr38s_3?idArticle=LEGIARTI000038312955&cidTexte=LEGITEXT000006071154&categorieLien=id&dateTexte)).
 
@@ -2581,7 +2265,7 @@ Pour contacter le PNAT :
 
 Sur la prévention et la lutte contre la radicalisation violente, voir le [*mément*](http://intranet.justice.gouv.fr/site/dacg/criminalite-organisee-terrorisme-blanchiment-3653/radicalisation-17235/memento-dacg-126103.html)*o* [DACG](http://intranet.justice.gouv.fr/site/dacg/criminalite-organisee-terrorisme-blanchiment-3653/radicalisation-17235/memento-dacg-126103.html) \- mai 2020.
 
-#### 1.9.3.1. Infractions terroristes de basse intensité relevant généralement des parquets locaux
+#### 1.8.3.1. Infractions terroristes de basse intensité relevant généralement des parquets locaux
 
 - provocation directe au terrorisme ([art 421-2-5](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000029755573&cidTexte=LEGITEXT000006070719) ; *cf* [fiche DACG - janvier 2015](http://intranet.justice.gouv.fr/site/dacg/art_pix/Apologie_du_terrorisme_DACG_Focus_150115.pdf) ; [*focu*](http://intranet.justice.gouv.fr/site/dacg/art_pix/Apologie%20publique%20et%20provocation%20directe%20au%20terrorisme.pdf)*s* [DACG \-](http://intranet.justice.gouv.fr/site/dacg/art_pix/Apologie%20publique%20et%20provocation%20directe%20au%20terrorisme.pdf) [décembre 2020](http://intranet.justice.gouv.fr/site/dacg/art_pix/Apologie%20publique%20et%20provocation%20directe%20au%20terrorisme.pdf)) :
 
@@ -2609,7 +2293,7 @@ Sur la prévention et la lutte contre la radicalisation violente, voir le [*mém
 
 - manquement aux obligations du FIJAIT ([art 706-25-7](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032655724&cidTexte=LEGITEXT000006071154&dateTexte=20170601) ; natinfs 31786 à 31791).
 
-#### 1.9.3.2. Infractions terroristes de haute intensité relevant du seul PNAT
+#### 1.8.3.2. Infractions terroristes de haute intensité relevant du seul PNAT
 
 Le PNAT centralise les infractions terro de haute intensité et lui seul peut retenir la qualification terroriste :
 
@@ -2637,7 +2321,7 @@ Pour tout attentat isolé, on saisit la PJ, on avise le PNAT, on choisit une qua
 
 - faire participer un mineur à une association de malfaiteurs terroriste par une personne ayant autorité ([art 421-2-4-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000035936655)).
 
-#### 1.9.3.3. Départ en Syrie
+#### 1.8.3.3. Départ en Syrie
 
 Le PNAT retient l'infraction d'AMT qui est de nature criminelle ou délictuelle (art [421-2-1](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D17D39B0C3481021DE2345C0E1F402818.tpdila07v_3?idArticle=LEGIARTI000006418432&cidTexte=LEGITEXT000006070719&dateTexte=20170528), [421-5](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D17D39B0C3481021DE2345C0E1F402818.tpdila07v_3?idArticle=LEGIARTI000032925381&cidTexte=LEGITEXT000006070719&dateTexte=20170528) et [421-6](https://www.legifrance.gouv.fr/affichCodeArticle.do%3Bjsessionid%3D17D39B0C3481021DE2345C0E1F402818.tpdila07v_3?idArticle=LEGIARTI000032925367&cidTexte=LEGITEXT000006070719&dateTexte=20170528&categorieLien=id&oldAction&nbResultRech)) selon que le MEC ayant tenté de rejoindre la Syrie y est ou non parvenu.
 
@@ -2696,17 +2380,17 @@ En matière de police administrative, des mesures individuelles de contrôle adm
 | 23 avril 2021                               | Rambouillet (policière)                                      | Jamel Gorchane                               | 1       | -                                       |      |      |
 
 
-## 1.10. Dimension internationale
+## 1.9. Dimension internationale
 
 *Cf* [mémento ENM - avril 2020](http://enm.intranet.justice.fr/Espaces_Thematiques/Dimension%20internationale%20de%20la%20justice/I-%20Ressources%20p%C3%A9dagogiques/1-%20Fascicules/fascicule%20entraide%20p%C3%A9nale%20internationale%20avril%202020.pdf)
 
-### 1.10.1. Entraide aux fins d'enquête ou de poursuites
+### 1.9.1. Entraide aux fins d'enquête ou de poursuites
 
 *Cf* [guide DACG sur l'entraide en matière d'enquête - novembre 2018](http://intranet.justice.gouv.fr/site/dacg/art_pix/Guide_entraide.pdf) [Conseils de rédaction des DEPI par la DACG](http://intranet.justice.gouv.fr/site/dacg/art_pix/Conseils_redaction_CRI-DEPI.pdf)
 
 [Page dédiée de la DACG](http://intranet.justice.gouv.fr/site/dacg/entraide-penale-internationale-1461/entraide-penale-enquete-9114/lentraide-penale-internationale-en-matiere-denquete-41267.html)
 
-#### 1.10.1.1. Décision d'enquête européenne
+#### 1.9.1.1. Décision d'enquête européenne
 
 dite *DEE* ([art 694-15 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DC9D244BB97111395D047DD683F656C45.tpdila10v_1?idSectionTA=LEGISCTA000033518695&cidTexte=LEGITEXT000006071154&dateTexte=20170526) et [D. 47-1-1](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000034402691&idSectionTA=LEGISCTA000034402689&cidTexte=LEGITEXT000006071154&dateTexte=20170605) et s.), au sein de l'UE
 
@@ -2724,7 +2408,7 @@ Toute DEE émanant d'une autorité judiciaire d'un autre EM doit être reconnue 
 
 Le magistrat saisi doit prendre la décision relative à la reconnaissance ou à l'exécution de la DEE au plus tard 30 jours après sa réception. Exceptionnellement, ce délai pourra être prorogé de 30 jours et la DEE devra être, en principe, exécutée dans les meilleurs délais, au plus tard dans les 90 jours suivant la date de la reconnaissance.
 
-#### 1.10.1.2. Autres entraides
+#### 1.9.1.2. Autres entraides
 
 - **Demandes d'entraide pénale internationale**, dite *DEPI*, régies par des conventions internationales essentiellement bilatérales (*cf* liste des conventions conclues par la France sur le [site de la](http://intranet.justice.gouv.fr/site/dacg-bepi/index.php) [DACG](http://intranet.justice.gouv.fr/site/dacg-bepi/index.php)) ou par la [Convention de 1959](https://rm.coe.int/1680065725) pour les EM du Conseil de l'Europe non-membres de l'UE. On doit les adresser au BEPI ([dépêche du 8 avril 2016](http://intranet.justice.gouv.fr/site/dacg/art_pix/depeche_08042016_close.pdf)).
 
@@ -2748,7 +2432,7 @@ Le magistrat saisi doit prendre la décision relative à la reconnaissance ou à
 
 
 
-### 1.10.2. Mandat d'arrêt européen
+### 1.9.2. Mandat d'arrêt européen
 
 - ([art 695-11 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3DE055703AFA959CC8A906B4030C0484BC.tplgfr30s_1?idSectionTA=LEGISCTA000006167507&cidTexte=LEGITEXT000006071154&dateTexte=20200605) ; [circ. du 11 mars 2004](http://intranet.justice.gouv.fr/dacg/cabinet//docs/2004/circulaire_mae_11.03.04.pdf)) au sein de l'UE
 
@@ -2774,7 +2458,7 @@ Une fois l'avis donné par la CHINS, le BEPI rédige le décret d'extradition si
 
 - Application des [art 696 et s.](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D335303014C689D99C858BD02CF98EFC1.tpdila23v_1?idSectionTA=LEGISCTA000006151925&cidTexte=LEGITEXT000006071154&dateTexte=20170619) pour l'extradition en l'**absence de convention** internationale.
 
-### 1.10.3. Acteurs de la coopération judiciaire
+### 1.9.3. Acteurs de la coopération judiciaire
 
 Les acteurs de coopération permettent notamment de faire prospérer les demandes d'entraide, de faciliter la rédaction des demandes ou d'assurer un suivi.
 
@@ -2800,7 +2484,7 @@ Création par le [règlement UE du 12 octobre 2017](http://eur-lex.europa.eu/leg
 
 - Délégation aux affaires européennes et internationales ([DAEI](http://intranet.justice.gouv.fr/site/sg/organisation-9899/la-delegation-aux-affaires-europeennes-et-internationales-97642.html)) relevant du SG.
 
-### 1.10.4. Acteurs de la de coopération policière
+### 1.9.4. Acteurs de la de coopération policière
 
 *(*[*art D. 8-2 CPP*](https://www.legifrance.gouv.fr/affichCode.do%3Bjsessionid%3D3B3CB490791415347419E30400083D70.tplgfr21s_3?idSectionTA=LEGISCTA000006166124&cidTexte=LEGITEXT000006071154&dateTexte=20191219)*)*
 
@@ -2843,7 +2527,7 @@ Création par le [règlement UE du 12 octobre 2017](http://eur-lex.europa.eu/leg
 | | Canfranc-Somport | 05.59.39.04.85 | [ccpd-canfranc@interieur.gouv.fr](mailto:ccpd-canfranc@interieur.gouv.fr) |
 | | Biriatou-Hendaye | 05.59.20.93.60 | [ccpd-hendaye@interieur.gouv.fr](mailto:ccpd-hendaye@interieur.gouv.fr) |
 
-## 1.11. Accidents collectifs
+## 1.10. Accidents collectifs
 
 *Cf* [*mément*](http://intranet.justice.gouv.fr/site/dacg/art_pix/Accidents_collectifs.pdf)*o* [DACG - juillet 2009](http://intranet.justice.gouv.fr/site/dacg/art_pix/Accidents_collectifs.pdf)
 
@@ -2857,7 +2541,7 @@ Création par le [règlement UE du 12 octobre 2017](http://eur-lex.europa.eu/leg
 
 2004.
 
-### 1.11.1. Accident routier
+### 1.10.1. Accident routier
 
 *(*[*fiche ENM - août 2019*](http://enm.intranet.justice.fr/Espaces_Fonctionnels/Parquet/I-%20Ressources%20p%C3%A9dagogiques/2-%20documentation%20th%C3%A9matique/Fiches%20techniques%20ENM/les%20accidents%20corporels%20de%20la%20circulation%20routi%C3%A8re%20MAJ%2008%202019.pdf)*)*
 
@@ -2869,7 +2553,7 @@ Saisir les chronotachygraphes des poids-lourds impliqués.
 
 Faire réaliser une expertise automobile avec déplacement sur les lieux en urgence de l'expert si l'accident est de grande ampleur.
 
-### 1.11.2. Accident aérien
+### 1.10.2. Accident aérien
 
 **Service d'enquête** : pour un accident d'aviation civile, la gendarmerie des transports aériens (GTA) peut se trouver compétente selon l'ampleur du préjudice (SRGTA à compétence nationale ou BRGTA qui a une compétence locale). Pour un accident d'aviation militaire, ce sera la gendarmerie de l'air.
 
@@ -2889,11 +2573,11 @@ Afin de déterminer les causes de l'accident, les enquêtes techniques et admini
 
 - faire consigner sur PV l'identification de l'avion (type, immatriculation, nationalité, propriétaires, exploitants…), la nature du vol (essai, service régulier, *meeting*, tourisme, fret, voltige…), ordonner l'audition des témoins (contrôleurs aériens et rescapés si leur état de santé le permet) ...
 
-### 1.11.3. Accident maritime
+### 1.10.3. Accident maritime
 
 Le bureau d'enquêtes sur les évènements de mer (BEA mer) peut intervenir sur les navires battant pavillon français et / sur les évènements survenus dans les eaux intérieures ou territoriales françaises ([dépêche](http://intranet.justice.gouv.fr/site/dacg/art_pix/D%E9p%EAche%20de%20pr%E9sentation%20du%20protocole%20de%20coop%E9ration%20relatif%20aux%20enqu%EAtes%20sur%20les%20%E9v%E8nements%20de%20mer.pdf) [du 3 janvier 2022](http://intranet.justice.gouv.fr/site/dacg/art_pix/D%E9p%EAche%20de%20pr%E9sentation%20du%20protocole%20de%20coop%E9ration%20relatif%20aux%20enqu%EAtes%20sur%20les%20%E9v%E8nements%20de%20mer.pdf) et [protocole du 14 octobre 2021](http://intranet.justice.gouv.fr/site/dacg/art_pix/Protocole%20de%20coop%E9ration%20relatif%20aux%20enqu%EAtes%20sur%20les%20%E9v%E8nements%20de%20la%20mer.pdf)).
 
-### 1.11.4. Accident ferroviaire
+### 1.10.4. Accident ferroviaire
 
 Ressources :
 
@@ -2913,7 +2597,7 @@ Ressources :
 
  - En cas de suicide : IJ récupère les prélèvements humains, audition du conducteur pour savoir s'il a vu la victime, recherche des éléments sur l'historique de la victime et ensuite on fait repartir le trafic.
 
-### 1.11.5. Accident du travail
+### 1.10.5. Accident du travail
 
  (*Cf* [*mément*](http://intranet.justice.gouv.fr/site/dacg/art_pix/Accidents_du_travail_29052012.pdf)*o* [DACG - mai 2012](http://intranet.justice.gouv.fr/site/dacg/art_pix/Accidents_du_travail_29052012.pdf) ; [ST type](http://intranet.justice.gouv.fr/site/dacg/sante-publique-droit-social-environnement-1457/soit-transmis-type-denquete-en-matiere-daccident-du-travail-134701.html))
 
